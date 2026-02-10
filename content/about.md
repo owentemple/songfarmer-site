@@ -36,6 +36,6 @@ The key insight: these two modes cannot be performed at the same time. Trying to
 
 **Owen Temple** is a Texas singer-songwriter who has recorded and released 12 albums of original songs, and the songs he has co-written with friends appear on the recordings of more than 12 artists.
 
-**Gordy Quist** is the frontman of the Band of Heathens, a Grammy-nominated Americana group, and a lifelong student of the songwriting craft.
+**Gordy Quist** is a record producer and founding member of the Band of Heathens, a Grammy-nominated Americana group, and a lifelong student of the songwriting craft.
 
 Together, they've led Songfarmer workshops helping songwriters at every level develop a sustainable creative practice.

@@ -30,7 +30,7 @@ As a Songfarmer, it is possible to move forward at a relentless, steady pace to 
 
 **Think about your own thinking**
 
-A good metaphor for thinking about your own thinking is an image of a rider on an elephant. New York University social psychologist Jonathan Haidt explains much of our behavior using this metaphor in his book *The Righteous Mind*, and I have found it to be a very useful, visual way to think about songwriting (and many other beneficial activities) that we want to get ourselves to do.
+A good metaphor for thinking about your own thinking is an image of a rider on an elephant. New York University social psychologist Jonathan Haidt explains much of our behavior using this metaphor in his book *The Righteous Mind*, and it's a very useful, visual way to think about songwriting (and many other beneficial activities) that we want to get ourselves to do.
 
 Imagine a rider on an elephant. Imagine that the rider is the controlling, planning, coordinating part of your brain that is trying to get the bigger, lumbering, sluggish, and more elephant-like automatic part of your brain to take certain unfamiliar but beneficial actions. The rider must coax, cajole, motivate, and encourage the elephant to do the unfamiliar actions that it would usually try to avoid, procrastinate, or postpone. Over time, the rider can train the elephant to do these behaviors (and it turns out that elephants learn new things best by doing them by repetition, if possible, every day) until the well-worn, usual path that the elephant travels is the very path that the rider desired and steered it toward.
 
@@ -38,7 +38,7 @@ So how does this rider on an elephant image apply to you and your own songwritin
 
 **Key habits**
 
-I have already mentioned a few of the components of a songwriting habit, but let’s take these general activities of “songwriting” and classify them into narrower categories of habits. Specifically, I think that ongoing songwriting can be viewed as the repetition and cycling between four key habits:
+We have already mentioned a few of the components of a songwriting habit, but let's take these general activities of "songwriting" and classify them into narrower categories of habits. Specifically, we think that ongoing songwriting can be viewed as the repetition and cycling between four key habits:
 
 I.  Writing
 
@@ -62,31 +62,31 @@ Let’s consider the writing habit itself as being made up of several different 
 - Reviewing previously noted ideas
 - Composing, or drafting lyrics and developing melodies
 
-If you were to adopt only one activity on the list, and ignore almost every other habit, please consider adopting the first one: writing down your ideas at the moment they come to you. I will have more to say about this activity later when we discuss “seeds for songs,” but its importance for a songwriter cannot be overemphasized.
+If you were to adopt only one activity on the list, and ignore almost every other habit, please consider adopting the first one: writing down your ideas at the moment they come to you. We will have more to say about this activity later when we discuss "seeds for songs," but its importance for a songwriter cannot be overstated.
 
 **II. Listening**
 
-When you are listening with attention to a new song or a familiar song, either as a recording or a live performance, you are working on songwriting, and let’s call this your listening habit. Every song you ever heard came through your ears and some portion of it was stored in your memory, and the way to continually add to that musical literacy and knowledge is by listening to songs.
+When you are listening with attention to a new song or a familiar song, either as a recording or a live performance, you are working on songwriting, and let’s call this your listening habit. Every song you ever heard came through your ears and some portion of it was stored in your memory. The way to continually add to that musical literacy and knowledge is by actively listening to songs.
 
 **III. Performing**
 
-When you sit down with your instrument and play chords or melodies or rhythms, or when you sing, you are working on songwriting, and this is your performing instrument habit. This habit is also what’s happening when you take a lesson, learn a new chord or a new tuning, or play something you know.
+When you sit down with your instrument and play chords or melodies or rhythms, or when you sing, you are working on songwriting, and this is your performing habit. This habit is also what’s happening when you take a lesson, learn a new chord or a new tuning, or play something you know.
 
 **IV. Reading**
 
-Hearing and reading language must be key habits in songwriting. When you read fiction, poetry, theater, screenplays, or spiritual texts, when you see great (or even mediocre) films, and when you listen closely to the way people around you talk, you are working on your Reading/Story habit. As a songwriter, in many ways, you are a storyteller, so *stories going in* can help when it’s time to *move stories out* with your pen, keyboard, or instrument.
+Hearing and reading language must be key habits in songwriting. When you read fiction, poetry, theater, screenplays, or spiritual texts, when you see great (or even mediocre) films, and when you listen closely to the way people around you talk, you are working on your reading or story habit. As a songwriter, in many ways, you are a storyteller, so *stories going in* can help when it’s time to *move stories out* with your pen, keyboard, or instrument.
 
-Always have fiction or poetry on hand for those thousand moments a day when you must hurry up and wait. Download the Kindle app or carry a paperback, so that when you are waiting - for the meal, for the bus, for the file to download - you can absorb language you admire and that inspires you.
+Always have fiction or poetry on hand for those thousand moments a day when you must hurry up and wait. Download the Kindle app or carry a small paperback, so that when you are waiting - for the meal, for the bus, for the file to download - you can absorb language you admire and that inspires you.
 
 **The power of daily**
 
-Now that we’ve briefly discussed goals and habits, I propose:
+Now that we’ve briefly discussed goals and habits, we propose:
 
 Your quantity or frequency GOAL (that you noted in your notebook earlier) plus these four HABITS (writing, listening, performing, and reading) will equal: you getting song SEEDS (or ideas for songs) and you generally enriching the SOIL of your ongoing musical and lyrical thoughts. From your goal and your habits, you will either get a specific idea for a song - a SEED - or you will get a general improvement in your knowledge and skills - the SOIL.
 
 When you are trying to build a new habit, you will find that inertia, procrastination, and already established routines work against your plans and can prevent you from performing the tasks you want to do. The only way to confront these forces of inertia and the way to do what you want to do with your life is by creating new habits. When it comes to forming habits, there is a very special power in **daily**. Anything you do daily, will become established habit faster than anything done every other day, or weekly, or monthly.
 
-In his book *Mini Habits*, productivity writer Stephen Guise argues that one way of holding to a daily habit is by setting “stupid small,” tiny daily goals. He argues that having one to four mini habits that you complete every day is a reliable and effective way to build up habits we want in our lives. I have taken his advice and applied it to the four songwriting habits to create four mini habits for myself that I complete, almost without fail, every day - at varying times - before I go to sleep.
+In his book *Mini Habits*, productivity writer Stephen Guise argues that one way of holding to a daily habit is by setting “stupid small,” tiny daily goals. He argues that having one to four mini habits that you complete every day is a reliable and effective way to build up habits we want in our lives. We have taken his advice and applied it to the four songwriting habits to create four mini habits for ourselves that we complete, almost without fail, every day - at varying times - before going to sleep.
 
 They are:
 
@@ -102,19 +102,19 @@ You might say, “that’s not enough words, songs, chords, pages etc. to make y
 
 ---
 
-![image](/images/tumblr/7e399240a7.jpg)
+![Log of completed daily habits, plus tracking of occasional compose session](/images/image-001.jpg)
 
 ## Log of completed daily habits, plus tracking of occasional compose session
 
 ---
 
-I must also point out that on many days I do more than just my mini habit requirement. Some days, I write 500 words that might later become lyrics, I listen to 13 new songs, I play 50 chords, and I read 100 pages of fiction.
+We must also point out that on many days we do more than just our mini habit requirements. Some days, we write 500 words that might later become lyrics, listen to 13 new songs, play 50 chords, and read 100 pages of fiction.
 
-Most importantly, I hope you recognize that by completing small daily actions, you can acquire a set of daily habits that require you to confront your avoidance and anxieties and fears of failure - every 24 hours - in a way that you will always end up feeling victorious and energized. Mini habits can create an upward spiral, where confidence begets confidence, and ideas beget ideas. The practice of mini habits works very well for me, as these small actions are important enough to do every day, and I believe these actions and these habits help me to continually develop as a songwriter.
+Most importantly, we hope you recognize that by completing small daily actions, you can acquire a set of daily habits that require you to confront your avoidance, anxieties, and fears of failure - every 24 hours - in a way that you will always end up feeling victorious and energized. Mini habits can create an upward spiral where confidence leads to more confidence and ideas trigger more ideas. The practice of mini habits works very well for us, as these small actions are important enough to do every day, and we believe these actions and these habits help us to continually develop as songwriters.
 
 **The Rule of Nine**
 
-“The Rule of Nine” is a principle of writing that I found in *The Comic Toolbox* by John Vorhaus. The idea is: that for every ten ideas you produce, one will be very good. Every ten times you take a risk, one time will really pay off. Your ratio of hits to misses may be slightly different, but I challenge you to accept the Rule of Nine because:
+“The Rule of Nine” is a principle of writing described in *The Comic Toolbox* by John Vorhaus. The idea is: that for every ten ideas you produce, one will be very good. Every ten times you take a risk, one time will really pay off. Your ratio of hits to misses may be slightly different, but we challenge you to accept the Rule of Nine because:
 
 1. it will help you to lower your expectations while you are writing, and
 
@@ -122,17 +122,17 @@ Most importantly, I hope you recognize that by completing small daily actions, y
 
 Lower expectations mean that the EDIT mode of your mind - or your internal critic - cuts you some slack and allows for development. Internalize the Rule of Nine and as you start writing, the critic will say: “Wait! This developing song doesn’t look like a number one hit! Oh, ok, no problem, yeah, we’ve got to write nine songs to get the one great one. Proceed, do your thing, FLOW, and I will take a backseat.”
 
-If you believe that you get gold about one out of ten times that you make something, the Rule of Nine tells you not to be disappointed if what you just made is not amazing. The Rule of Nine tells you to keep going, keep making things, because it turns out you have to make songs and ideas regularly and relentlessly to get the good stuff. One of my favorite mantras comes from legendary University of Texas college baseball coach Augie Garrido. He regularly tells his ballplayers to “do your best, fail, and do your best again.”
+If you believe that you get gold about one out of ten times that you make something, the Rule of Nine tells you not to be disappointed if what you just made is not amazing. The Rule of Nine tells you to keep going, keep making things, because it turns out you have to make songs and ideas regularly and relentlessly to get the good stuff. One of our favorite mantras comes from legendary University of Texas college baseball coach Augie Garrido. He regularly tells his ballplayers to “do your best, fail, and do your best again.”
 
 **Overcoming distraction**
 
-I have found that using the mini habits framework has helped me create periods of focused attention to perform the routines of my songwriting habits. The “stupid small” size of the mini habits goals makes me less likely to procrastinate performing my routines, because I do feel that I can accomplish them. The small mini habit gets me to BEGIN doing my routine, and then once I am doing something, it is easy to keep going.
+We have found that using the mini habits framework has helped us create periods of focused attention to perform the routines of our songwriting habits. The "stupid small" size of the mini habits goals makes us less likely to procrastinate performing our routines, because we do feel that we can accomplish them. The small mini habit gets you to BEGIN doing your routine, and then once you are doing something, it is easy to keep going.
 
 **The Pomodoro Technique**
 
-Another idea I have found helpful for getting more focused sessions is The Pomodoro Technique, described in a book by the same name, developed and written by Francesco Cirillo. The idea is that you break your work into “pomodoros,” or 25 minute sessions of focus on one task, and that you do not allow distractions or interruptions during that 25 minute session. Pomodoro means tomato in Italian, and Carlos recommends using a windup kitchen timer. (Carlos’s timer was in the shape of a tomato, hence the name for the technique.) During a “pomodoro,” you don’t check Facebook, you don’t take phone calls, and you don’t check your email. After 25 minutes, you take a mandatory 5 minute break, and then determine whether you would like to do another pomodoro session.
+Another idea we have found helpful for getting more focused sessions is The Pomodoro Technique, described in a book by the same name, developed and written by Francesco Cirillo. The idea is that you break your work into “pomodoros,” or 25 minute sessions of focus on one task, and that you do not allow distractions or interruptions during that 25 minute session. Pomodoro means tomato in Italian, and Carlos recommends using a windup kitchen timer. (Carlos’s timer was in the shape of a tomato, hence the name for the technique.) During a “pomodoro,” you don’t check Facebook, you don’t take phone calls, and you don’t check your email. After 25 minutes, you take a mandatory 5 minute break, and then determine whether you would like to do another pomodoro session.
 
-Being a successful writer is 5% talent, and 95% not being distracted by the Internet, so turn off the Wi-Fi connection on your computer and turn off your phone when you are focused on your habits. You can use computer applications like Freedom and Self-Control, and they will actually disable your Internet connection for a set period of time that you specify at the beginning of a session.
+Being a successful writer is 5% talent, and 95% not being distracted by the Internet, so consider turning off the Wi-Fi connection on your computer and turning off your phone when you are focused on your habits. You can use computer applications like Freedom and Self-Control, and they will actually disable your Internet connection for a set period of time that you specify at the beginning of a session.
 
 Now let’s discuss what you will find while completing the actions of your habits: ideas for songs or… seeds.
 

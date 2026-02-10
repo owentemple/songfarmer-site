@@ -16,7 +16,7 @@ Chapters [1](/blog/songfarmer-chapter-one/), [2](/blog/chapter-two-set-a-goal/),
 
 Our brains are problem solving machines and they need purpose and direction, so let’s come up with a purpose and a direction for them by breaking down the idea of *more and better* songs with two questions. Now, grab a notebook to write down your answers to these questions in this section. Plan to keep this same notebook handy whenever you are reading Songfarmer to answer questions, capture song ideas, and make plans.
 
-**The first question: how many songs you do want to write?** I am assuming you want at least one more song, but beyond that it is up to you to be specific. Do you want enough for a performance, enough for an album, or just one? Do you want to have a lot of extra songs to choose from for your purposes, or do you just want a certain number - no more, no less? Do you have a frequency goal, such as “I want to write one song a month,” “I want to write ten songs a year,” or “I want to write a song a week?” Or do you have a target goal date, such as “I want to have two new songs by August 1”?
+**The first question: how many songs do you want to write?** We are assuming you want at least one more song, but beyond that it is up to you to be specific. Do you want enough for a performance, enough for an album, or just one? Do you want to have a lot of extra songs to choose from for your purposes, or do you just want a certain number - no more, no less? Do you have a frequency goal, such as “I want to write one song a month,” “I want to write ten songs a year,” or “I want to write a song a week?” Or do you have a target goal date, such as “I want to have two new songs by August 1”?
 
 Simply set a goal for how many songs you want to write and specify a time period for when you want to have them completed. Don’t proceed until you have written down your quantity goal.
 
@@ -36,7 +36,7 @@ Communicate concepts to a reader or listener
 
 Connect and make a listener feel similar emotions and empathize with the characters in a song
 
-As the creator of a song, you will need to determine why you want to create them. What do you want the songs to do? Do you want them to help you have fun, discover, communicate, and connect? Though these are common uses of a song, this list does not cover all the purposes of writing a song. You may have a few additional goals, including to make money with songs (and that’s certainly a valid - and common - goal). Or your goal may be to change others’ behavior, or to elicit positive feedback from people you admire or respect. However, I would argue that, even to accomplish goals like these, your songs need to do a good job of helping you to discover, communicate, and connect.
+As the creator of a song, you will need to determine why you want to create them. What do you want the songs to do? Do you want them to help you have fun, discover, communicate, and connect? Though these are common uses of a song, this list does not cover all the purposes of writing a song. You may have a few additional goals, including to make money with songs (and that’s certainly a valid - and common - goal). Or your goal may be to change others’ behavior, or to elicit positive feedback from people you admire or respect. However, we would argue that, even to accomplish goals like these, your songs need to do a good job of helping you to discover, communicate, and connect.
 
 To the extent your songs allow you to discover, communicate, or connect (or make money, change other’s behavior, or raise your influence or profile in a community), your songs will be “better” as get you closer to accomplishing the goals you hope to accomplish with them. “Better” will be determined by the song creator’s assessment of progress, or lack of progress, towards his or her goals for the songs. Answer as best you can: **How do you want your songs to improve?**
 
@@ -44,7 +44,7 @@ To the extent your songs allow you to discover, communicate, or connect (or make
 
 **(or, more can lead to better)**
 
-I firmly believe that the problem solving, practice, and skills you acquire through writing more songs (quantity) will increase the likelihood you will write better or more effective songs (quality). I also believe that the more songs you plan to write, the odds are:
+We firmly believe that the problem solving, practice, and skills you acquire through writing more songs (quantity) will increase the likelihood you will write better or more effective songs (quality). We also believe that the more songs you plan to write, the odds are:
 
 You will spend more time on a weekly basis practicing your songwriting skills.
 
@@ -62,7 +62,7 @@ A fast, satisfying experience at a marathon doesn’t *necessarily* follow becau
 
 Quantity: How many songs do you want to write?
 
-Quality: How do you want your songs to improve?  What goals do you want to be able to better accomplish with the songs you write? (Such as to discover, communicate, connect, and/or to do what else?) This is tricky, but you might also decide how you will measure or track the extent to which your songs accomplish the goals you set for them. That is, how will you know if your songs get better through the work you do in this program? Be as specific as you can be, though I know it is hard to quantify. Do your best to come up with a way to measure your progress at song quality with respect to your goals.
+Quality: How do you want your songs to improve?  What goals do you want to be able to better accomplish with the songs you write? (Such as to discover, communicate, connect, and/or to do what else?) This is tricky, but you might also decide how you will measure or track the extent to which your songs accomplish the goals you set for them. That is, how will you know if your songs get better through the work you do in this program? Be as specific as you can be, though we know it is hard to quantify. Do your best to come up with a way to measure your progress at song quality with respect to your goals.
 
 So again, before you move on, write down your answers to the questions: How many songs do you want to make? What is your target date or how often do you want to write them? (Create a tracking chart or use a wall calendar so that you can see your quantity goal and you can make a mark for each created song.) In what ways do you want your songs to get better or more effective? What goals do you want them to accomplish?
 

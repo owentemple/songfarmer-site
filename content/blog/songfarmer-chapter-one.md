@@ -27,9 +27,9 @@ Songfarmer is a systematic view of the processes involved in songwriting. Songfa
 The intention of Songfarmer is to write more and better songs through:
 
 - the daily use of a few songwriting habits to collect “seeds” for songs, and
-- an alternating, intentional move between two different modes of writing that I’ll call FLOW and EDIT.
+- an alternating, intentional move between two different modes of writing that we'll call FLOW and EDIT.
 
-As a Songfarmer, you collect seeds (ideas for songs) and you improve the soil (the skills, knowledge, and memories in your brain) through your habits of writing, listening, performing, and reading. Then, later, you grow songs from those seeds in composing sessions in which you “water” the seeds with a stream-of-consciousness writing mode called FLOW. Then, after a good flow session, you weed your and prune the plants with an evaluative, critical, and structural mode of writing called EDIT.
+As a Songfarmer, you collect seeds (ideas for songs) and you improve the soil (the skills, knowledge, and memories in your brain) through your habits of writing, listening, performing, and reading. Then, later, you grow songs from those seeds in composing sessions in which you “water” the seeds with a stream-of-consciousness writing mode called FLOW. Then, after a good flow session, you weed and prune the plants with an evaluative, critical, and structural mode of writing called EDIT.
 
 Our goals:
 
@@ -43,11 +43,11 @@ The FLOW mode of writing is a stream-of-consciousness style of writing with no j
 
 The two modes of writing are a FLOW mode and an EDIT mode and they should be done separately. When writers try to FLOW and EDIT at the same time, the result is often “getting stuck” or “writer’s block.” You can’t feel free to create or make unexpected connections (FLOW) when the judging, critical side of our consciousness (EDIT) is watching with scrutiny, so one of the skills this program will encourage is a conscious and strict separation of the two modes of writing.
 
-Unlike other books you may have come across on songwriting, this book will not cover song structure, rhyme scheme, scales, keys or the music theory of melody. It is a book on the self-guided *process* of improving at the skill of songwriting. There is a wealth of books on those other specific topics of songwriting, so I’ll stick to the habits and processes of writers who improve and work diligently at their craft. On an ongoing basis, I’ll trust you to use the music you love to identify what specific skills and knowledge you need to acquire on your journey, and I’ll help you to build processes and the habits to acquire them.
+Unlike other books you may have come across on songwriting, this book will not cover song structure, rhyme scheme, scales, or the music theory of melody. It is a book on the self-guided *process* of improving at the skill of songwriting. There is a wealth of books on those other specific topics of songwriting, so we'll stick to the habits and processes of writers who improve and work diligently at their craft. On an ongoing basis, we'll trust you to use the music you love to identify what specific skills and knowledge you need to acquire on your journey, and we'll help you to build processes and the habits to acquire them.
 
 **Why we write songs**
 
-I write songs to remember people and places that I want to carry with me through the rest of my life. I write songs to solve problems, to remember the solutions, and also to ask questions for which I may never know the answers. I write songs to try to record and capture a version of the truth of what it is to be alive. I am a songwriter because I write songs, and I write songs because I am a songwriter. My mind is always on the hunt for song ideas, and I am on the hunt for song ideas because it is an activity I have done so frequently that it has become a habit.
+We write songs to remember people and places that we want to carry with us through the rest of our lives. We write songs to solve problems, to remember the solutions, and also to ask questions for which we may never know the answers. We write songs to try to record and capture a version of the truth of what it is to be alive. We are songwriters because we write songs, and we write songs because we are songwriters. Our minds are always on the hunt for song ideas, and we are on the hunt for song ideas because it is an activity we have done so frequently that it has become a habit.
 
 This program will help you to strengthen the habits that lead to more and better songs.
 
@@ -57,6 +57,7 @@ Some of the habits that are helpful for songwriters include:
 - Listening to music
 - Playing your instrument
 - Learning about your instrument
+- Learning songs you love
 - Singing
 - Reading great prose or poetry
 - Listening closely to the way people talk
@@ -64,7 +65,7 @@ Some of the habits that are helpful for songwriters include:
 
 If you strengthen these habits, you will write **more** songs. The more songs you write, the **better** they’ll become.
 
-Wait, you say: does writing more songs result in writing better songs? Not necessarily, but I argue that writing more songs is *very likely* to lead to writing better songs.  I argue that by showing up day after day, even in a small way, to perform the routines of your habits, you will be successful at writing songs. Ask many artists, and they will tell you that moving through the process of creation is the most gratifying and reliable pleasure of art, so that’s why I say: if you faithfully show up for your songwriting habits, you will be successful growing songs. And as you follow your own tastes to study and learn about existing songs you admire, you will upgrade your own skills and abilities to grow songs that accomplish your goals.
+Wait, you say: does writing more songs result in writing better songs? Not necessarily, but we argue that writing more songs is *very likely* to lead to writing better songs.  We argue that by showing up day after day, even in a small way, to perform the routines of your habits, you will be successful at writing songs. Ask many artists, and they will tell you that moving through the process of creation is the most gratifying and reliable pleasure of art, so that’s why we say: if you faithfully show up for your songwriting habits, you will be successful growing songs. And as you follow your own tastes to study and learn about existing songs you admire, you will upgrade your own skills and abilities to grow songs that accomplish your goals.
 
 So while we’re thinking of “more and better songs,” we might consider: what is a great song?
 
@@ -74,7 +75,7 @@ What is a great song? A great song is a beautiful accident of the prepared mind-
 
 Knowing a process for writing songs doesn’t guarantee great songs, but having a way to move forward - having a process for writing songs - can help you make the most out of the ideas that the universe throws your way.
 
-With Songfarmer, my hope is to give you a process, a structured way of “showing up”, to take the actions that will move you forward in your writing. The objectives are straightforward: to make more and better songs. My hope and goal is that you will get a firm idea from this book of how to continue in your songwriting journey and that you’ll have some reliable methods to get more and better songs in the future.
+With Songfarmer, our hope is to give you a process, a structured way of "showing up", to take the actions that will move you forward in your writing. The objectives are straightforward: to make more and better songs. From this book, you will get a firm idea of how to continue in your songwriting journey, and you'll have some reliable methods to get more and better songs in the future.
 
   
 

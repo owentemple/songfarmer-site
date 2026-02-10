@@ -72,44 +72,19 @@ Edit the generated file in `content/blog/`, set `draft: false` when ready.
 - Old Tumblr URLs are preserved via Hugo `aliases` in post front matter and Netlify `_redirects`
 - The `{{< spotify type id >}}` shortcode embeds Spotify players; YouTube uses Hugo's built-in `{{< youtube id >}}`
 
-## In-Progress: Syncing Book Chapters to Updated PDF
+## Completed: Book Chapter Sync to Updated PDF
 
-The blog hosts the full text of the Songfarmer book as individual chapter posts in `content/blog/`. These were originally posted from a first-person "I" voice. An updated PDF of the book text exists at `book/UpdatedSongfarmerText.pdf` which uses a co-author "we" voice and includes other text revisions.
+The blog hosts the full text of the Songfarmer book as individual chapter posts in `content/blog/`. All chapters have been synced to the updated PDF at `book/UpdatedSongfarmerText.pdf`, which uses a co-author "we" voice and includes other text revisions. The blog posts keep their front matter, book cover image, chapter nav links, and Next chapter link — only the body text was synced.
 
-**The task**: Compare each chapter blog post against the corresponding chapter in the PDF and update the blog text to match the PDF. Changes typically include:
-- Voice shift: "I/my/me" → "we/our/us" (the updated book uses co-author voice)
-- Minor wording changes, typo fixes, added/removed words
-- The blog posts keep their front matter, book cover image, chapter nav links, Kindle link, and Next chapter link — only the body text is synced to the PDF
+**Chapter blog files**: `songfarmer-chapter-one.md`, `chapter-two-set-a-goal.md`, `chapter-3-create-songwriting-habits.md`, `chapter-4-recognizing-song-seeds.md`, `chapter-5-composing.md`, `chapter-six-improving-flow.md`, `chapter-seven-improving-edit.md`, `chapter-eight-strengthening-habits.md`, `chapter-nine-stickiness.md`, `chapter-ten-collaboration.md`, `prompts.md`, `conclusion.md`
 
-**Chapter files and their PDF page ranges** (PDF has 13 pages of front matter before book page 1):
-| Chapter | Blog file | PDF pages (of file) |
-|---------|-----------|-------------------|
-| 1 - Overview | `songfarmer-chapter-one.md` | 14-18 |
-| 2 - Set a Goal | `chapter-two-set-a-goal.md` | 19-23 |
-| 3 - Create Songwriting Habits | `chapter-3-create-songwriting-habits.md` | 24-32 |
-| 4 - Recognizing Song Seeds | `chapter-4-recognizing-song-seeds.md` | 33-35 |
-| 5 - Composing | `chapter-5-composing.md` | 36-47 |
-| 6 - Improving FLOW | `chapter-six-improving-flow.md` | 48-55 |
-| 7 - Improving EDIT | `chapter-seven-improving-edit.md` | 56-68 |
-| 8 - Strengthening Habits | `chapter-eight-strengthening-habits.md` | 69-81 |
-| 9 - Stickiness | `chapter-nine-stickiness.md` | 82-87 |
-| 10 - Collaboration | `chapter-ten-collaboration.md` | 88-91 |
-| Prompts | `prompts.md` | 92-93 |
-| Conclusion | `conclusion.md` | 94-96 |
-
-**Completed**: All chapters synced (1–10, Prompts, Conclusion)
-
-**Notes on common change patterns**:
-- Voice shift: "I/my/me" → "we/our/us" throughout
-- Some first-person anecdotes reframed as third-person "Owen" quotes (especially in Ch 6, 8)
-- Minor wording changes, typo fixes, added/removed sentences
-- Ch 5 added Bob Dylan trivia section; Ch 7 fixed two meaning-changing typos ("with"→"without")
-- Ch 7 also had old Tumblr book cover image — updated to match other chapters
+**Summary of changes made**:
+- Voice shift: "I/my/me" → "we/our/us" throughout all chapters
+- Some first-person anecdotes reframed as third-person "Owen" quotes (Ch 6, 8)
+- Minor wording changes, typo fixes, added/removed sentences across all chapters
+- Ch 5 added Bob Dylan trivia section; Ch 7 fixed meaning-changing typos and old book cover image
 - Ch 8 had the most changes (18) with several "Owen talks about..." reframings
-- Ch 9 had 7 changes (wording, voice, typo fix); Ch 10 had 4 changes (inclusive language, wording)
-- Prompts added Songfarmer App prompt; Conclusion had 4 voice changes (I→We)
-
-Also added `book/image-001.jpg` → `static/images/image-001.jpg` (mini habits tracking chart) to Chapter 3.
+- Prompts added Songfarmer App prompt; also added `static/images/image-001.jpg` to Ch 3
 
 ## Deployment
 

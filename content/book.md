@@ -33,6 +33,6 @@ Inside you'll find:
 Whether you're writing your first song or your five-hundredth, Songfarmer gives you a repeatable process for growing ideas into finished songs.
 
 <div class="book-buttons">
-<a href="https://order.owentemple.com/products/songfarmer-paperback-book" class="btn btn--primary" target="_blank" rel="noopener">Order from Author</a>
+<a href="https://order.owentemple.com/products/songfarmer-paperback-book" class="btn btn--primary" target="_blank" rel="noopener">Order from Authors</a>
 <a href="https://www.amazon.com/Songfarmer-Writing-More-Better-Songs/dp/0990420205/" class="btn btn--secondary" target="_blank" rel="noopener">Amazon</a>
 </div>

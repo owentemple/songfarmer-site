@@ -6,11 +6,4 @@
   {{ if .Summary }}
   <p class="post-card__summary">{{ .Summary | plainify | truncate 160 }}</p>
   {{ end }}
-  {{ with .Params.tags }}
-  <div class="post-card__tags">
-    {{ range . }}
-    <a href="{{ "tags/" | absURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
-    {{ end }}
-  </div>
-  {{ end }}
 </article>

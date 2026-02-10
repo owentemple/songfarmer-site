@@ -7,7 +7,7 @@ aliases: ["/post/140455690301/chapter-seven-improving-edit", "/post/140455690301
 original_url: "https://songfarmer.com/post/140455690301/chapter-seven-improving-edit"
 ---
 
-[![songfarmer](/images/tumblr/6216bc467a.jpg)](http://amazon.com/dp/0990420205/)
+[![Songfarmer book cover](/images/Songfarmer-Book-Cover.webp)](/book/)
 
 From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)  
 Chapters [1](/blog/songfarmer-chapter-one/), [2](/blog/chapter-two-set-a-goal/), [3](/blog/chapter-3-create-songwriting-habits/), [4](/blog/chapter-4-recognizing-song-seeds/), [5](/blog/chapter-5-composing/), [6](/blog/chapter-six-improving-flow/), [7](/blog/chapter-seven-improving-edit/), [8](/blog/chapter-eight-strengthening-habits/), [9](/blog/chapter-nine-stickiness/), [10](/blog/chapter-ten-collaboration/), [Prompts](/blog/prompts/), [Conclusion](/blog/conclusion/)
@@ -40,7 +40,7 @@ The following are topics and questions to pose when in the EDIT mode. When revie
 
 **Development** - Does something happen or change from the beginning to the end of the song?
 
-**Pronouns** - Is it clear who is speaking or which perspective the song is from?  Is from first person (I, me), second person (you), or third person (he, she, they). Or does it blend these in a logical way?
+**Pronouns** - Is it clear who is speaking or which perspective the song is from?  Is it from first person (I, me), second person (you), or third person (he, she, they). Or does it blend these perspectives in a logical way?
 
 **Phrasing** - Can you eliminate excessive or redundant words? Do the words fit the melody comfortably?
 
@@ -95,7 +95,7 @@ Feminine rhymes are two syllable rhymes, like drinking and thinking, or father a
 
 **Repetition**
 
-It seems obvious, but then, maybe that’s why we need to remind ourselves that building in repetition makes songs more memorable.  Repetition builds familiarity into a lyric that allows the brain to rest and enjoy before tackling new information in the rest of the song. The tradition of choruses that come around a few times in a song is based on the enjoyment of repetition, but even for songs without Verse-Chorus-Verse structures or songs without refrains, repetition can be employed. If you are writing a song with a chorus or without a refrain, you can still find spots to repeat phrases or words to provide pattern and familiarity for the listener.
+It seems obvious, but then, maybe that’s why we need to remind ourselves that building in repetition makes songs more memorable.  Repetition builds familiarity into a lyric that allows the brain to rest and enjoy before tackling new information in the rest of the song. The tradition of choruses that come around a few times in a song is based on the enjoyment of repetition, but even for songs without Verse-Chorus-Verse structures or songs without refrains, repetition can be employed. If you are writing a song without a chorus or without a refrain, you can still find spots to repeat phrases or words to provide pattern and familiarity for the listener.
 
 **Cliché**
 
@@ -107,11 +107,11 @@ While you are composing melody or finding a way to sing lyric fragments, move to
 
 Once you have some words and melody coming together, try singing and playing your song directly to the wall and listen to your song bouncing back at you. We are used to hearing the sound of our singing in our heads, but the wall will reflect the sounds back to your ear with a delay of milliseconds. Using that bounce of the sound waves against the wall in the EDIT mode can give you a slight distance and enable you to evaluate and “listen” to your song more objectively.
 
-Finally, as a way hear and evaluate the current state of your song, record it on a voice memo and play it back. Listen to it as if you didn’t write the song. Try to put yourself in the perspective of someone hearing the song for the first time and take notes on what you like and what could be better.
+Finally, as a way to hear and evaluate the current state of your song, record it on a voice memo and play it back. Listen to it as if you didn’t write the song. Try to put yourself in the perspective of someone hearing the song for the first time and take notes on what you like and what could be better.
 
 **Chords**
 
-Interesting chords can sometimes produce unique melodies or create a feeling you can explore with lyrics, so ask your musician friends if there are any new chords they know that they can show you. If there is a new chord you have learned, try it out while you are composing and see if it suggests any promising possibilities for the lyric and melody you are composing. Try a diminished chord, a minor chord, or inverted chord with the usual order of notes switched around to see if it adds to or detracts from the movement of the melody. As for my own performing habit, I keep a copy of *Mel Bay’s Guitar Chords* around and in easy reach, and I try to learn one new chord a week.
+Interesting chords can sometimes produce unique melodies or create a feeling you can explore with lyrics, so ask your musician friends if there are any new chords they know that they can show you. If there is a new chord you have learned, try it out while you are composing and see if it suggests any promising possibilities for the lyric and melody you are composing. Try a diminished chord, a minor chord, or inverted chord with the usual order of notes switched around to see if it adds to or detracts from the movement of the melody. For a performing habit, keep a copy of a chord reference book like *Mel Bay's Guitar Chords* (or the Chord Garden section in the back of this book) around and in easy reach, and try to learn one new chord a week.
 
 **Development**
 
@@ -133,7 +133,7 @@ People have varying opinions on many subjects, but there remains significant ove
 
 Truth can emerge from the EDIT mode when a rough idea is polished and refined to a state of clear meaning, and truth can also emerge from the FLOW mode when a line pops out with all the necessary equipment in place to communicate and connect. “Resonance” might be the presence of a near universal truth in a song, and most of us hope we can find songs that have this quality in the finished versions. To highlight truth in a lyric while revising, in EDIT mode, ask yourself: what is true about this song? If it’s not already in the song, stated in an economical way, try to compress those lines. Use EDIT and FLOW to rewrite anything that you do not feel is true or credible.
 
-To test whether you believe a lyric: sing it. If it is hard to sing with conviction, most audiences will detect this subtle backing off, and the song will probably held back by this lyric. It should be rewritten.
+To test whether you believe a lyric: sing it. If it is hard to sing with conviction, most audiences will detect this subtle backing off, and the song will probably be held back by this lyric. It should be rewritten.
 
 Another way to think of lines that you can sing year after year is the quality of timelessness. Timelessness means that it deals with the truth of the human condition and some universal concerns in the lyrics. Sometimes saying something that you feel but have never said out loud before can be a way to find truth, resonance, and timelessness.
 
@@ -149,11 +149,11 @@ However, while you are performing in public, focus entirely on communicating and
 
 **Imitation is the best form of flattery**
 
-If you get stuck with a song, sometime it helps to imagine your songwriting or musical heroes. What would your favorite singer do with this idea or lyric? Imitate them to discover possible answers for your own songs. Once you get moving forward with an idea again, you can drop the imitation, or keep it going if it’s working. An extreme version of this idea: you could write new lyrics to an existing song. Then once the lyric is finished, you could compose a new melody for the lyric you wrote. A less extreme version of this idea: cover that songs you love. Learn the lyric, chords, melody until you can perform it with notes or lyric sheets. You will unconsciously and consciously learn techniques, structures, tricks, and phrasing that may eventually help you to compose songs.
+If you get stuck with a song, sometime it helps to imagine your songwriting or musical heroes. What would your favorite singer do with this idea or lyric? Imitate them to discover possible answers for your own songs. Once you get moving forward with an idea again, you can drop the imitation, or keep it going if it’s working. An extreme version of this idea: you could write new lyrics to an existing song. Then once the lyric is finished, you could compose a new melody for the lyric you wrote. A less extreme version of this idea: cover that songs you love. Learn the lyric, chords, melody until you can perform it without notes or lyric sheets. You will unconsciously and consciously learn techniques, structures, tricks, and phrasing that may eventually help you to compose songs.
 
 **Folders**
 
-By now, you know that I recommend keeping a file or a folder that holds seeds, but you should also have a folder for finished songs. (These can be physical or digital folders, whatever you prefer.) Additionally, you should have another “middle” folder for songs that are in draft form but not “finished.”  Keep these three folders together, side by side, so that you are motivated to move ideas from a seed folder to a drafts folder, and then to move drafts to final folders of songs. Having a trusted system or a set of folders where ideas grow up, stage to stage, folder to folder, will assure the songwriter consciousness inside you that the ideas you generate will be stored, evaluated, and used, and that nothing will slip through the cracks.
+By now, you know that we recommend keeping a file or a folder that holds seeds, but you should also have a folder for finished songs. (These can be physical or digital folders, whatever you prefer.) Additionally, you should have another “middle” folder for songs that are in draft form but not “finished.”  Keep these three folders together, side by side, so that you are motivated to move ideas from a seed folder to a drafts folder, and then to move drafts to final folders of songs. Having a trusted system or a set of folders where ideas grow up, stage to stage, folder to folder, will assure the songwriter consciousness inside you that the ideas you generate will be stored, evaluated, and used, and that nothing will slip through the cracks.
 
 **Feeling stuck**
 

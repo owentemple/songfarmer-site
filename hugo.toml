@@ -26,6 +26,11 @@ title = 'Songfarmer'
   weight = 50
 
 [[menus.main]]
+  name = "Inspiration"
+  url = "/artpick/"
+  weight = 55
+
+[[menus.main]]
   name = "Workshop"
   url = "https://songfarmer.bandcamp.com/merch/songfarmer-workshop-registration"
   weight = 60

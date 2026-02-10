@@ -83,24 +83,37 @@ body {
 
 /* ===== Header / Hero ===== */
 .hero {
+  position: relative;
   text-align: center;
-  padding: 40px 20px 30px;
-  max-width: 700px;
-  margin: 0 auto;
+  padding: 80px 20px 60px;
+  background: url('/images/tumblr-hero.jpg') center/cover no-repeat;
+  max-width: none;
+  margin: 0;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
 }
 
 .hero img {
+  position: relative;
   max-width: 100%;
-  width: 400px;
+  width: 320px;
   height: auto;
   margin-bottom: 16px;
+  border-radius: 8px;
 }
 
 .hero .tagline {
-  font-size: 19px;
-  color: var(--color-text-light);
+  position: relative;
+  font-size: 22px;
+  color: #fff;
   font-style: italic;
   margin-bottom: 0;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
 }
 
 /* ===== Main Content ===== */
@@ -567,15 +580,15 @@ body {
   }
 
   .hero {
-    padding: 24px 16px 20px;
+    padding: 48px 16px 36px;
   }
 
   .hero img {
-    width: 280px;
+    width: 240px;
   }
 
   .hero .tagline {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .container {

@@ -1,29 +1,71 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>ArtPick - Get Inspired by Great Art</title>
-	<link href="style.css" rel="stylesheet" />
+	<title>ArtPick - Get Inspired by Great Art | Songfarmer</title>
 	<link href="favicon.png" rel="icon" type="image/png" />
+	<style>
+		/* Nav styles matching main Songfarmer site */
+		*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+		.nav {
+			background-color: #5C4033;
+			padding: 0;
+			position: sticky;
+			top: 0;
+			z-index: 100;
+			box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+		}
+		.nav ul {
+			list-style: none;
+			display: flex;
+			justify-content: center;
+			flex-wrap: wrap;
+			max-width: 900px;
+			margin: 0 auto;
+			padding: 0;
+		}
+		.nav li { margin: 0; }
+		.nav a {
+			text-decoration: none;
+			color: rgba(255,255,255,0.85);
+			display: block;
+			padding: 14px 20px;
+			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+			font-size: 14px;
+			font-weight: 500;
+			letter-spacing: 0.5px;
+			transition: all 0.3s ease;
+		}
+		.nav a:hover, .nav a.active {
+			background-color: rgba(255,255,255,0.1);
+			color: #fff;
+		}
+		@media screen and (max-width: 600px) {
+			.nav ul { flex-wrap: wrap; justify-content: center; }
+			.nav a { padding: 10px 14px; font-size: 13px; }
+		}
+	</style>
+	<link href="style.css" rel="stylesheet" />
 </head>
 <body>
-	<h1>Songfarmer App - ArtPick</h1>
 
-	<header>
-		<div class="nav">
-			<ul>
-				<li><a href="http://app.songfarmer.com">Home</a></li>
-				<li><a href="http://www.songfarmer.com">Blog</a></li>
-				<li><a href="https://www.facebook.com/Songfarmer-1794554584104702">Facebook</a></li>
-				<li><a href="https://www.twitter.com/songfarmers">Twitter</a></li>
-				<li><a href="https://songfarmer.bandcamp.com/merch/songfarmer-workshop-registration">Workshop</a></li>
-				<li><a href="http://songfarmer.bandcamp.com/merch/songfarmer-writing-more-and-better-songs">Book</a></li>
-			</ul>
-		</div>
-		<h2>Get Inspired</h2>
-		<img src="images/banner.jpg" class="banner" alt="Films, Albums, and Books">
-	</header>
+<header>
+	<nav class="nav" aria-label="Main navigation">
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/about/">About</a></li>
+			<li><a href="/book/">Book</a></li>
+			<li><a href="/blog/">Blog</a></li>
+			<li><a href="https://app.songfarmer.com" target="_blank" rel="noopener">App</a></li>
+			<li><a href="/artpick/" class="active">Inspiration</a></li>
+			<li><a href="https://songfarmer.bandcamp.com/merch/songfarmer-workshop-registration" target="_blank" rel="noopener">Workshop</a></li>
+		</ul>
+	</nav>
+</header>
+
+	<h2>Get Inspired</h2>
+	<img src="images/banner.jpg" class="banner" alt="Films, Albums, and Books">
 
 	<div class="buttons">
 		<img src="images/purple-button-with-text.jpg" class="button" id="filmButton" alt="Pick a Film" role="button" tabindex="0">

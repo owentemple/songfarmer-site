@@ -40,6 +40,7 @@ layouts/
 assets/css/
   style.css          — All styles (shares design tokens with the app)
 static/
+  artpick/           — ArtPick micro-app (standalone HTML/CSS/JS, not Hugo-managed)
   images/            — Logo, process diagram, Tumblr-migrated images
   favicon.png
   _redirects         — Netlify redirect rules
@@ -71,6 +72,8 @@ Edit the generated file in `content/blog/`, set `draft: false` when ready.
 - `unsafe = true` in Hugo's Goldmark config allows raw HTML in Markdown (needed for some Tumblr-migrated content)
 - Old Tumblr URLs are preserved via Hugo `aliases` in post front matter and Netlify `_redirects`
 - The `{{< spotify type id >}}` shortcode embeds Spotify players; YouTube uses Hugo's built-in `{{< youtube id >}}`
+- **Nav structure** (consistent across main site, app, and artpick): Home, About, Book, Blog, App, Inspiration, Workshop
+- **ArtPick** (`static/artpick/`) is standalone HTML outside Hugo templating — its nav links and styles are hardcoded inline. If the site nav changes, artpick's `index.html` must be updated manually to match.
 
 ## Completed: Book Chapter Sync to Updated PDF
 

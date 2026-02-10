@@ -34,7 +34,7 @@ The key insight: these two modes cannot be performed at the same time. Trying to
 
 ## The Authors
 
-**Owen Temple** is a Texas singer-songwriter who has recorded and released 12 albums of original songs, and the songs he has co-written with friends appear on the recordings of more than 12 artists.
+**Owen Temple** is a Texas singer-songwriter who has recorded and released 12 albums of original songs, and the songs he has written appear on the recordings of more than 30 artists.
 
 **Gordy Quist** is a record producer and founding member of the Band of Heathens, a Grammy-nominated Americana group, and a lifelong student of the songwriting craft.
 

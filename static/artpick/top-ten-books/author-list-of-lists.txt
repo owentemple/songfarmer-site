@@ -1,0 +1,1255 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.toptenbooks.net/ns#"
+  xmlns:schema="http://schema.org/">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.toptenbooks.net/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>All Author List | www.toptenbooks.net</title>
+  <link type="text/css" rel="stylesheet" href="http://www.toptenbooks.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.toptenbooks.net/sites/default/files/css/css_qCJgurV9nUR4xKW0SZzjZdQfVevJNRITgozM8cOiPsU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.toptenbooks.net/sites/default/files/css/css_MaIfARs4I8o_qwipO1AXINTR8__AtlfqdAfAEJ7GMag.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.toptenbooks.net/sites/default/files/css/css_yxXdALdE16_HF-H7PaSqy7qcKQq2bTkGIBMHiCahN3o.css" media="screen" />
+  <script type="text/javascript" src="http://www.toptenbooks.net/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="http://www.toptenbooks.net/sites/default/files/js/js_IfMCH1o4K_O4ro0fwYHrd8Ci49uja6uXyqZ6ejkc3gs.js"></script>
+<script type="text/javascript" src="http://www.toptenbooks.net/sites/default/files/js/js_gzrYpeXY69UZ29K1542c3th5BnhgbGQ_o79S3SDV8tw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-27144638-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.toptenbooks.net/sites/default/files/js/js_G2SFKAq42rsqEK8eyMYoLG_ENdQ63n3ATKm9h2t6jPc.js"></script>
+<script type="text/javascript" src="http://www.toptenbooks.net/sites/default/files/js/js_SzoD-oTDjUbYz0xasCOefLUCJFKVE7FlZ6eSseNFBSM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"toptenbooks7","theme_token":"hsj8T7ejtPc4xQUvRAwic2URZf5Pdr8CwlRPpvu64pU","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ajax.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/iframe\/iframe.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"misc\/progress.js":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/toptenbooks7\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/libraries\/colorbox\/example3\/colorbox.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/quotes\/quotes.css":1,"sites\/all\/themes\/toptenbooks7\/style.css":1,"sites\/all\/themes\/toptenbooks7\/custom.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"colorbox_node":{"width":"75%","height":"75%"}});
+//--><!]]>
+</script>
+  <!-- Created by Artisteer v4.0.0.58475 -->
+
+<meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width">
+
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+<!--[if lte IE 7]><link rel="stylesheet" href="/sites/all/themes/toptenbooks7/style.ie7.css" media="screen" /><![endif]-->
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu&amp;subset=latin">
+
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-all-author-list" >
+    
+<div id="art-main">
+<header class="art-header clearfix">
+
+    <div class="art-shapes">
+
+
+            </div>
+
+                        
+                    
+</header>
+<nav class="art-nav clearfix">
+    <div class="art-nav-inner">
+     
+        <ul class="art-hmenu"><li class="first leaf"><a href="http://toptenbooks.net" title="">Home</a></li>
+<li class="leaf active-trail active"><a href="/all-author-list" title="" class="active-trail active">Author Lists</a></li>
+<li class="leaf"><a href="/all-time-top-ten-lists">All-Time Top Ten Lists</a></li>
+<li class="leaf"><a href="/reader-top-ten-lists" title="">Reader Lists</a></li>
+<li class="leaf"><a href="/about-editor">About the Editor</a></li>
+<li class="leaf"><a href="/the-list-of-books-view" title="">The List of Books</a></li>
+<li class="last leaf"><a href="http://toptenbooks.net/thebooks/node/add/reader-top-ten-list" title="">Submit Your List</a></li>
+</ul>
+</div>
+    </nav>
+<div class="art-sheet clearfix">
+            <div class="art-layout-wrapper clearfix">
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        <div class="art-layout-cell art-sidebar1 clearfix">  <div class="region region-sidebar-left">
+    <div class="block block-block" id="block-block-11">
+<div class="art-block clearfix">
+                <div class="art-blockcontent"><p><a href="http://www.amazon.com/exec/obidos/ASIN/1611175089/ref=nosim/totebo07-20" target="_blank">Order J. Peder Zane's new collection of essays and reviews.</a></p>
+<p><a href="http://www.amazon.com/exec/obidos/ASIN/1611175089/ref=nosim/totebo07-20"><img src="/sites/default/files/Off%20the%20Books.jpg" width="172" height="250" /></a></p>
+<p><a href="http://www.amazon.com/gp/product/B00BHJRYYS/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00BHJRYYS&amp;linkCode=as2&amp;tag=totebo07-20" target="_blank"> </a></p>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-16">
+<div class="art-block clearfix">
+                <div class="art-blockcontent"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Left side Square ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:200px"
+     data-ad-client="ca-pub-5779752220273005"
+     data-ad-slot="5269355481"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div></div>
+<div class="block block-block" id="block-block-1">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  The Book: The Top Ten</h3>
+</div>        <div class="art-blockcontent"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0393328406/ref=nosim/totebo07-20" target="_blank" style="line-height: 1.538em;"><img src="http://www.toptenbooks.net/sites/default/files/images/book_lg.gif" /></a></p>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-10">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  Future Wave Web Development</h3>
+</div>        <div class="art-blockcontent"><p>Site Maintained/Supported by <a href="http://futurewavewebdevelopment.com" target="_blank"> Bruce Whealton, dba Future Wave Web Development</a></p>
+<h4><a href="http://futurewavewebdevelopment.com/WebDesignSpecial.html" target="_blank">Special Offer $299 Websites</a></h4>
+<p><a href="http://futurewavewebdevelopment.com/WebDesignSpecial.html" target="_blank"><img src="http://toptenbooks.net/sites/default/files/fwlogo/fwlogoTransSm.png" /></a></p>
+<p><a href="http://futurewavewebdevelopment.com/WebDesignSpecial.html" target="_blank">Visit Future Wave for all your Web Development, Mobile Android App Needs</a></p>
+<p><a href="https://plus.google.com/104163742620406482151/?rel=author"> Google+ Profile for Bruce Whealton</a></p>
+</div>
+</div></div>
+  </div>
+</div>                        <div class="art-layout-cell art-content clearfix"><div id="banner3">  <div class="region region-banner3">
+    <div class="block block-block" id="block-block-17">
+<div class="content">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Top Banner Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-5779752220273005"
+     data-ad-slot="9726027085"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+  </div>
+</div>
+<article class="art-post art-article">
+                                
+                                                
+                <div class="art-postcontent"><h2 class="element-invisible art-postheader">You are here</h2><div class="breadcrumb art-postcontent"><a href="/">Home</a></div></div>
+</article>
+<article class="art-post art-article">
+                                
+                                                
+                <div class="art-postcontent"><h1>All Author List</h1>      </div>
+    </article>
+    <div class="region region-content">
+    <div class="block block-system" id="block-system-main">
+<div class="content">
+<div class="view view-all-author-list view-id-all_author_list view-display-id-page view-dom-id-6b8ead4ca944c634797daae54bc30dbc">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-0" >
+       <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/lee-k-abbott"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/abbott%2C%20lee.gif?itok=bciX2jBk" width="160" height="138" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/lee-k-abbott">Lee K. Abbott&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/diana-abu-jaber"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Abu-Jaber%2C%20Diana_1.jpg?itok=S2_32mJm" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/diana-abu-jaber">Diana Abu-Jaber&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/Sherman-Alexie"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Alexi%2C%20Sherman_0.jpg?itok=SGNF9uOL" width="160" height="111" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/Sherman-Alexie">Sherman Alexie&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/kate-atkinson"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Kate%20Atkinson.jpg?itok=fevrsKU7" width="160" height="135" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/kate-atkinson">Kate Atkinson&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/paul-auster"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Auster%2C%20Paul_0.jpg?itok=Pke5etB8" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/paul-auster">Paul Auster&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/melissa-bank"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Bank%2C%20Melissa_0.jpg?itok=xyfOaIx3" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/melissa-bank">Melissa Bank’s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/russell-banks"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Banks%2C%20Russell_0.jpg?itok=BF6cEWoa" width="160" height="89" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/russell-banks">Russell Banks&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/john-banville"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Banville%2C%20John.jpg?itok=O26hATib" width="160" height="119" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/john-banville">John Banville&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/julian-barnes"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Barnes%2C%20Julian_0.jpg?itok=3QnYL1OY" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/julian-barnes">Julian Barnes&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/andrea-barrett"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Barrett%2C%20Andrea_0.jpg?itok=cOG-LoxS" width="160" height="103" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/andrea-barrett">Andrea Barrett&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/madison-smartt-bell"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Bell%2C%20Maddison%20Smartt_0.jpg?itok=Sg2qBI1W" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/madison-smartt-bell">Madison Smartt Bell&#039;s Top Ten List </a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/tom-bissell"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Bissell%2C%20Tom_0.jpg?itok=LeMIyD49" width="160" height="84" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/tom-bissell">Tom Bissell&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/peter-blauners-top-ten-list"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Blauner%2C%20Peter.jpg?itok=AoD8Clnl" width="140" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/peter-blauners-top-ten-list">Peter Blauner&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/amy-bloom"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Bloom%2C%20Amy.jpg?itok=p3aJro7y" width="160" height="80" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/amy-bloom">Amy Bloom&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/chris-bohjalian"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Bohjalian%2C%20Chris_0.jpg?itok=MnB-bB2O" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/chris-bohjalian">Chris Bohjalian&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/christopher-bollen"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Bollen%2C%20Christopher.jpg?itok=3qHWQ2qD" width="104" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/christopher-bollen">Christopher Bollen&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/t-c-boyle"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Boyle%2C%20TC_0.jpg?itok=Fp_fL9mm" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/t-c-boyle">T.C. Boyle&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/adam-braver"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Braver%2C%20Adam_0.jpeg?itok=mkaMskOG" width="160" height="130" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/adam-braver">Adam Braver&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/judy-budnitz"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Budnitz%2C%20Judy_0.jpg?itok=gbgqtFOf" width="160" height="105" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/judy-budnitz">Judy Budnitz&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/james-lee-burke"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Burke%2C%20James%20Lee_0.jpg?itok=Heb6BYyj" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/james-lee-burke">James Lee Burke&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/peter-cameron"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Cameron%2C%20Peter_0.jpg?itok=Hx-bNaO-" width="160" height="106" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/peter-cameron">Peter Cameron&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/bebe-moore-campbell"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Campbell%2C%20Bebe%20Moore_0.jpg?itok=UkRnrYao" width="160" height="110" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/bebe-moore-campbell">Bebe Moore Campbell&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/ethan-canin"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Canin%2C%20Ethan_0.jpg?itok=4AquJNXO" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/ethan-canin">Ethan Canin&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/philip-caputo"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Caputo%2C%20Philip_0.jpg?itok=zuFdE-98" width="160" height="81" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/philip-caputo">Philip Caputo&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/peter-carey"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Carey%2C%20Peter_0.jpg?itok=WuFU1aVC" width="160" height="106" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/peter-carey">Peter Carey&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/michael-chabon"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Chabon%2C%20Michael_0.jpg?itok=mOxyoCim" width="160" height="111" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/michael-chabon">Michael Chabon&#039;s Top Ten LIst</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/fred-chappell"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Chappell%2C%20Fred_0.jpg?itok=x1IPllTi" width="105" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/fred-chappell">Fred Chappell&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/sandra-cisneros"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Cisneros%2C%20Sandra_0.jpg?itok=m-PZE8jy" width="160" height="128" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/sandra-cisneros">Sandra Cisneros&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/pearl-cleage"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Cleage%2C%20Pearl_0.jpg?itok=N3yf9WHC" width="160" height="128" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/pearl-cleage">Pearl Cleage&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/michael-connelly"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Connelly%2C%20Michael_0.jpg?itok=dqELB_PW" width="160" height="108" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/michael-connelly">Michael Connelly&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/robert-coover"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Coover%2C%20Robert_0.jpg?itok=ePU-Wx3p" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/robert-coover">Robert Coover&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/douglas-coupland"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Coupland%2C%20Douglas_0.jpg?itok=NumoFGyG" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/douglas-coupland">Douglas Coupland&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jim-crace"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Crace%2C%20Jim_0.jpg?itok=LW2a2RvM" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jim-crace">Jim Crace&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/stanley-crawford"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Crawford%2C%20Stanley_0.jpg?itok=mWwLmxyH" width="160" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/stanley-crawford">Stanley Crawford&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/michael-cunningham"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Cunningham%2C%20Michael_0.jpg?itok=UZrbKnVf" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/michael-cunningham">Michael Cunningham&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/edwidge-danticat"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Danticat%2C%20Edwidge_0.jpg?itok=R6i5m9iD" width="160" height="89" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/edwidge-danticat">Edwidge Danticat&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/robb-forman-dew"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Forman%2C%20Robb%20Dew_0.jpg?itok=FYFbKuiL" width="97" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/robb-forman-dew">Robb Forman Dew&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/chitra-divakaruni"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Divakaruni%2C%20Chitra_0.jpg?itok=-AOrV2N0" width="160" height="106" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/chitra-divakaruni">Chitra Divakaruni&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/emma-donoghue"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Donoghue%2C%20Emma_0.jpg?itok=det32GUp" width="160" height="100" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/emma-donoghue">Emma Donoghue&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/margaret-drabble"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Drabble%2C%20Margaret_0.jpg?itok=YyiqAJU3" width="160" height="100" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/margaret-drabble">Margaret Drabble&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/david-anthony-durham"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Durham%2C%20David%20Anthony_0.jpg?itok=vdgwrmQs" width="160" height="124" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/david-anthony-durham">David Anthony Durham&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/bret-easton-ellis"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Ellis%2C%20Bret%20Easton.jpg?itok=wPnAc2bK" width="160" height="85" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/bret-easton-ellis">Bret Easton Ellis&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/clyde-edgerton"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Edgerton%2C%20Clyde_0.jpg?itok=QNg4PIsm" width="160" height="80" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/clyde-edgerton">Clyde Edgerton&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jennifer-egan"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Egan%2C%20Jennifer_0.jpg?itok=Dtrm00p_" width="160" height="108" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jennifer-egan">Jennifer Egan&#039;s Top Ten list</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/percival-everett"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Everett%2C%20Percival_0.jpg?itok=YU2Czcbo" width="140" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/percival-everett">Percival Everett&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/amanda-filipacchi"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Filipacchi%2C%20Amanda.jpg?itok=RLsebjUZ" width="95" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/amanda-filipacchi">Amanda Filipacchi&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/elizabeth-flock"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Flock%2C%20Elizabeth_0.jpg?itok=3DH5JW8-" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/elizabeth-flock">Elizabeth Flock&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/karen-joy-fowler"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Fowler%2C%20Karen%20Joy_0.jpg?itok=o9RlJgsX" width="160" height="123" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/karen-joy-fowler">Karen Joy Fowler&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/paula-fox"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Fox%2C%20Paula_0.jpg?itok=neSKr3q4" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/paula-fox">Paula Fox&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jonathan-franzen"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Franzen%2C%20Jonathan_0.jpg?itok=YE0xS6vs" width="160" height="93" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jonathan-franzen">Jonathan Franzen&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/alan-furst"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Furst%2C%20Alan_0.jpg?itok=yPtRame_" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/alan-furst">Alan Furst&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/Mary-Gaitskill"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Gaitskill%2C%20Mary_0.JPG?itok=fzUOHDRL" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/Mary-Gaitskill">Mary Gaitskill&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/g-d-gearino"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Gearino%2C%20G.D._0.jpg?itok=ur40uOmA" width="144" height="130" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/g-d-gearino">G.D. Gearino&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/denise-gess"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Gess%2C%20Denise_0.jpg?itok=zTEpXrQx" width="121" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/denise-gess">Denise Gess&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jennifer-gilmore"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Gilmore%2C%20Jennifer_0.jpg?itok=qsbVTEA0" width="160" height="89" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jennifer-gilmore">Jennifer Gilmore&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/gail-godwin"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Godwin%2C%20Gail_0.jpg?itok=1PGrBfdG" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/gail-godwin">Gail Godwin&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/arthur-golden"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Golden%2C%20Arthur_0.jpg?itok=FHhV8WLj" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/arthur-golden">Arthur Golden&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/robert-goolrick"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Goolrick%2C%20Robert_0.jpg?itok=Sg1D1l23" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/robert-goolrick">Robert Goolrick&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/mary-gordon"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Gordon%2C%20Mary_0.jpg?itok=AsT_yj5y" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/mary-gordon">Mary Gordon&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/michael-griffith"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Griffith%2C%20Michael_0.jpg?itok=SCg3v8tV" width="160" height="123" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/michael-griffith">Michael Griffith&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/lev-grossman"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Grossman%2C%20Lev_0.jpg?itok=aPwgakeD" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/lev-grossman">Lev Grossman&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/Sara-Gruen"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Gruen%2C%20Sarah_0.jpg?itok=scFrKYYX" width="137" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/Sara-Gruen">Sara Gruen&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/allan-gurganus"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Gurganus%2C%20Allan.jpg?itok=Ynta0CsV" width="140" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/allan-gurganus">Allan Gurganus&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/barry-hannah"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Hannah%2C%20Barry_0.jpg?itok=jERS7UDg" width="160" height="80" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/barry-hannah">Barry Hannah&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/donald-harington"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Harington%2C%20Donald_0.jpg?itok=-YuaxzXm" width="160" height="87" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/donald-harington">Donald Harington&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jim-harrison"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Harrison%2C%20Jim_0.jpg?itok=ezHzKEXK" width="93" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jim-harrison">Jim Harrison&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/kathryn-harrison"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Harrison%2C%20Kathryn_0.jpg?itok=QnkbNMDW" width="136" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/kathryn-harrison">Kathryn Harrison&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/kent-haruf"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Haruf%2C%20Kent_0.jpg?itok=m4FnmiOR" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/kent-haruf">Kent Haruf&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/adam-haslett"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Haslett%2C%20Adam_0.jpg?itok=2OZrE67W" width="160" height="105" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/adam-haslett">Adam Haslett&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/elizabeth-hay"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Hay%2C%20Elizabeth_0.jpg?itok=GtKxNCqW" width="160" height="75" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/elizabeth-hay">Elizabeth Hay&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/sheila-heti"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Heti%2C%20Sheila.jpg?itok=w5-1Q9R2" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/sheila-heti">Sheila Heti&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/carl-hiaasen"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Hiaasen%2C%20Carl_0.jpg?itok=aIuJx8JE" width="160" height="76" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/carl-hiaasen">Carl Hiaasen&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/alice-hoffman"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Hoffman%2C%20Alice_0.png?itok=M6j4iz7t" width="160" height="116" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/alice-hoffman">Alice Hoffman&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/a-m-homes"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Homes%2C%20AM_0.jpg?itok=1d5frgE1" width="160" height="100" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/a-m-homes">A.M. Homes&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/andrew-hudgins"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Hudgins%2C%20Andrew.jpg?itok=M-sCxOD6" width="93" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/andrew-hudgins">Andrew Hudgins&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/josephine-humphreys"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Humphreys%2C%20Josephine_0.jpg?itok=rc7x9Bg4" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/josephine-humphreys">Josephine Humphreys&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/siri-hustvedt"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Hustvedt%2C%20Siri.jpg?itok=NmbsB4D-" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/siri-hustvedt">Siri Hustvedt&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/john-irving"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Irving%2C%20John_0.jpg?itok=IbfEOQDg" width="160" height="129" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/john-irving">John Irving&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/ha-jin"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Jin%2C%20Ha_0.jpg?itok=R_iSZxgH" width="160" height="113" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/ha-jin">Ha Jin&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/troy-jollimore"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Jollimore%2C%20Troy_0.jpg?itok=I9yN4X9z" width="160" height="104" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/troy-jollimore">Troy Jollimore&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/heidi-julavits"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Julavits%2C%20Heidi_0.jpg?itok=WDblwU5z" width="160" height="127" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/heidi-julavits">Heidi Julavits&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/ken-kalfus"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Kalfus%2C%20Ken_0.jpg?itok=gb_aYAVa" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/ken-kalfus">Ken Kalfus&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/thomas-keneally"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Kenneally%2C%20Thomas_0.jpg?itok=TaSArqy1" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/thomas-keneally">Thomas Keneally&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/a-l-kennedy"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Kennedy%2C%20A.L..jpg?itok=9jgMgMa-" width="160" height="83" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/a-l-kennedy">A.L. Kennedy&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/sue-monk-kidd"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Kidd%2C%20Sue%20Monk_0.jpg?itok=xRTAvzbz" width="160" height="138" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/sue-monk-kidd">Sue Monk Kidd&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/haven-kimmel"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Kimmel%2C%20Haven_0.jpg?itok=FnSLwoIm" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/haven-kimmel">Haven Kimmel&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/stephen-king"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/King%2C%20Stephen_0.jpg?itok=EJ_7pX4l" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/stephen-king">Stephen King&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/walter-kirn"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Kirn%2C%20Walter_0.jpg?itok=G19XCb0T" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/walter-kirn">Walter Kirn&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/laila-lalami"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Lalami%2C%20Laila_0.jpg?itok=IG6cEZKg" width="93" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/laila-lalami">Laila Lalami&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/wally-lamb"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Lamb%2C%20Wally_0.jpg?itok=oUtdlHYE" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/wally-lamb">Wally Lamb&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/caroline-leavitt"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Leavitt%2C%20Caroline_0.jpg?itok=g6kL3xv6" width="160" height="105" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/caroline-leavitt">Caroline Leavitt&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/david-leavitt"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Leavitt%2C%20David_0.jpg?itok=dR2GwzVD" width="158" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/david-leavitt">David Leavitt&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/tom-leclair"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/LeClair%2C%20Tom.jpg?itok=wK5Adh14" width="148" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/tom-leclair">Tom LeClair&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jonathan-lethem"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Lethem%2C%20Jonathan_0.jpg?itok=0zntZiMY" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jonathan-lethem">Jonathan Lethem&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/margot-livesey"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Livesey%2C%20Margot_0.jpg?itok=Kyn4XyCL" width="155" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/margot-livesey">Margot Livesey&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/david-lodge"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Lodge%2C%20David_0.jpg?itok=FdifvV6q" width="160" height="108" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/david-lodge">David Lodge&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/norman-mailer"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Mailer%2C%20Norman_0.jpg?itok=LHaxSunS" width="160" height="118" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/norman-mailer">Norman Mailer&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/thomas-mallon"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Mallon%2C%20Thomas_0.jpg?itok=2uwsWRse" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/thomas-mallon">Thomas Mallon&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/ben-marcus"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Marcus%2C%20Ben_0.jpg?itok=BIVtpl12" width="160" height="136" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/ben-marcus">Ben Marcus&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/valerie-martin"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Martin%2C%20Valerie_0.jpg?itok=ufz_z-so" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/valerie-martin">Valerie Martin&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/bobbie-ann-mason"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Mason%2C%20Bobbie%20Ann_0.jpg?itok=oyvdwYnv" width="160" height="82" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/bobbie-ann-mason">Bobbie Ann Mason&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/dennis-mcfarland"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/McFarland%2C%20Dennis_0.jpg?itok=OoWZUoyJ" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/dennis-mcfarland">Dennis McFarland&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/patrick-mcgrath"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/McGrath%2C%20Patrick.jpg?itok=XQr54LX7" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/patrick-mcgrath">Patrick McGrath&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/erin-mcgraw"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/download.jpg?itok=TqWZAaXT" width="94" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/erin-mcgraw">Erin McGraw&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/martha-mcphee"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/McPhee%2C%20Martha_0.jpg?itok=DvOSbSjo" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/martha-mcphee">Martha McPhee&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/david-means"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Means%2C%20David_0.jpg?itok=qDV1Sa5s" width="160" height="76" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/david-means">David Means&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/maile-meloy"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Meloy%2C%20Maile_0.jpg?itok=UQH2PEvn" width="160" height="104" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/maile-meloy">Maile Meloy&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jane-mendelsohn"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Mendelsohn%2C%20Jane_2.jpg?itok=JoTaoVw3" width="160" height="106" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jane-mendelsohn">Jane Mendelsohn&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/claire-messud"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Messud%2C%20Claire_0.jpg?itok=thI0QpcY" width="160" height="102" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/claire-messud">Claire Messud&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/jonathan-miless-top-ten-list"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Miles%2C%20Jonathan_0.jpg?itok=792sJiE0" width="160" height="114" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/jonathan-miless-top-ten-list">Jonathan Miles&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/lydia-millet"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Millet%2C%20Lydia.JPG?itok=k4zrbTUR" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/lydia-millet">Lydia Millet&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/susan-minot"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Minot%2C%20Susan_0.jpg?itok=aJPQHWqK" width="160" height="74" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/susan-minot">Susan Minot&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/david-mitchell"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Mitchell%2C%20David_0.jpg?itok=jUxhJlHg" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/david-mitchell">David Mitchell&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/rick-moodys-top-ten-list"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Moody%2C%20Rick_0.jpeg?itok=OL7ZXPRs" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/rick-moodys-top-ten-list">Rick Moody&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/lorrie-moores-top-ten-list"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Moore%2C%20Lorrie_0.jpg?itok=HX1zI9bx" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lorrie-moores-top-ten-list">Lorrie Moore&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/robert-morgans-top-ten-list"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Morgan%2C%20Robert_0.jpg?itok=EV7qmVHI" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/robert-morgans-top-ten-list">Robert Morgan&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/craig-nova"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Nova%2C%20Craig_0.jpg?itok=p3NlYkGU" width="160" height="128" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/craig-nova">Craig Nova&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/josip-novakovich"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Novakovich%2C%20Josip_1.jpg?itok=BM1k8eIP" width="160" height="99" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/josip-novakovich">Josip Novakovich&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/kevin-omalleys-top-ten-list"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/O%27Malley%2C%20Kevin.jpg?itok=sLjvUlAq" width="139" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/kevin-omalleys-top-ten-list">Kevin O&#039;Malley&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/stewart-o%27nan"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/O%27Nan%2C%20Stewart_0.jpg?itok=SWJGvQBD" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/stewart-o%27nan">Stewart O&#039;Nan&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/joyce-carol-oates"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Oates%2C%20Joyce%20Carol_0.jpg?itok=EvcNvgXS" width="160" height="108" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/joyce-carol-oates">Joyce Carol Oates&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/alix-ohlin"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Ohlin%2C%20Alix_0.jpg?itok=uy-NwHIs" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/alix-ohlin">Alix Ohlin&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/charles-pallisers-top-ten-list"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Palliser%2C%20Charles_0.JPG?itok=wKTXDjsf" width="160" height="121" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/charles-pallisers-top-ten-list">Charles Palliser&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/robert-b-parker"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Parker%2C%20Robert_0.jpg?itok=w2HlyEa9" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/robert-b-parker">Robert B. Parker&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/ann-patchett"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Patchett%2C%20Ann_0.jpg?itok=rLHbT-KA" width="160" height="128" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/ann-patchett">Ann Patchett&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/iain-pears"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Pears%2C%20Iain_0.jpg?itok=rzjN8PaI" width="160" height="110" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/iain-pears">Iain Pears&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/george-pelecanos"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Pelecanos%2C%20George_0.jpg?itok=T9V6QVNM" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/george-pelecanos">George Pelecanos&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/tom-perrotta"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Perrotta%2C%20Tom.jpg?itok=Zw9lC_7J" width="160" height="114" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/tom-perrotta">Tom Perrotta&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/arthur-phillips"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Phillips%2C%20Arthur_0.jpg?itok=XeePx08R" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/arthur-phillips">Arthur Phillips&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jodi-picoult"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Picoult%2C%20Jodi_0.jpg?itok=Nd6rTUvv" width="160" height="104" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jodi-picoult">Jodi Picoult&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/robert-pinsky"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Pinsky%2C%20Robert.jpg?itok=-Xapz85C" width="140" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/robert-pinsky">Robert Pinsky&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/richard-powers"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Powers%2C%20Richard_0.jpg?itok=X1-S3ouG" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/richard-powers">Richard Powers&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/reynolds-price"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Price%2C%20Reynolds_0.jpg?itok=ViyRUBpd" width="160" height="119" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/reynolds-price">Reynolds Price&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/francine-prose"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Prose%2C%20Francine_0.jpg?itok=G0OtzwnY" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/francine-prose">Francine Prose&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/annie-proulx"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Proulx%2C%20Annie_0.jpg?itok=Uf5vSqco" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/annie-proulx">Annie Proulx&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jonathan-raban"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Raban%2C%20Jonathan.jpg?itok=MFW14tvT" width="160" height="127" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jonathan-raban">Jonathan Raban&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/ian-rankin"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Rankin%2C%20Ian_0.jpg?itok=Sai9PclW" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/ian-rankin">Ian Rankin&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/ron-rash"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Rash%2C%20Ron.jpg?itok=Nq_1nsM5" width="160" height="82" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/ron-rash">Ron Rash&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/ishmael-reed"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Reed%2C%20Ishmael.jpg?itok=e8gT1jUt" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/ishmael-reed">Ishmael Reed&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/roxana-robinson"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Robinson%2C%20Roxana_0.jpg?itok=4BsV_GeQ" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/roxana-robinson">Roxana Robinson&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/louis-d-rubin"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Rubin%2C%20Louis%20D._0.jpg?itok=c1aBOSpq" width="160" height="82" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/louis-d-rubin">Louis D. Rubin Jr.&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/james-salter"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Salter%2C%20James_0.jpg?itok=W9eS_PvO" width="160" height="118" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/james-salter">James Salter&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/george-saunders"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Saunders%2C%20George_0.jpg?itok=E0Lk1RxZ" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/george-saunders">George Saunders&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/cathleen-schine"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Schine%2C%20Cathleen.jpg?itok=eHQgM7Fj" width="160" height="138" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/cathleen-schine">Cathleen Schine&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/dani-shapiros-top-ten-list"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Shapiro%2C%20Dani.jpg?itok=RNi_a1hM" width="160" height="106" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/dani-shapiros-top-ten-list">Dani Shapiro&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jim-shepard"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Shepard%2C%20Jim_0.jpg?itok=0JIxLXLz" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jim-shepard">Jim Shepard&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/anita-shreve"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Shreve%2C%20Anita_0.jpg?itok=JVBgwaVF" width="160" height="124" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/anita-shreve">Anita Shreve&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/porter-shreves-top-ten-list"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Shreve%2C%20Porter.jpg?itok=ESZFFZYi" width="160" height="127" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/porter-shreves-top-ten-list">Porter Shreve&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/Lionel-Shriver"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Shriver%2C%20Lionel_0.jpg?itok=J3ElS1Tt" width="160" height="132" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/Lionel-Shriver">Lionel Shriver&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/mona-simpson"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Simpson%2C%20Mona.jpg?itok=kkUPHNKY" width="160" height="120" alt="" title="Mona Simpson" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/mona-simpson">Mona Simpson&#039;s Top Ten Page</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/alexander-mccall-smith"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Smith%2C%20Alexander%20McCall_0.jpg?itok=OFimyTAR" width="160" height="106" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/alexander-mccall-smith">Alexander McCall Smith&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/lee-smith"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Smith%2C%20Lee_0.jpg?itok=IBcUZYwD" width="127" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/lee-smith">Lee Smith&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/martha-southgate"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Southgate%2C%20Martha_1.jpg?itok=zhtudV9H" width="160" height="100" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/martha-southgate">Martha Southgate&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/elizabeth-spencer"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Spencer%2C%20Elizabeth_0.jpg?itok=RcJXNkPK" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/elizabeth-spencer">Elizabeth Spencer&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/scott-spencer"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Spencer%2C%20Scott_0.jpg?itok=C27f3QvV" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/scott-spencer">Scott Spencer&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/Leah-Stewart"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Stewart%2C%20Leah_0.jpg?itok=twIKCYFY" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/Leah-Stewart">Leah Stewart&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/adriana-trigiani"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Trigiani%2C%20Adriana_0.jpg?itok=ofUgrVHi" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/adriana-trigiani">Adriana Trigiani&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/scott-turow"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Turow%2C%20Scott_0.jpg?itok=ITI_8XDf" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/scott-turow">Scott Turow&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/barry-unsworth"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Unsworth%2C%20Barry_0.jpg?itok=16ZQXBg5" width="160" height="96" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/barry-unsworth">Barry Unsworth&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/vendela-vida"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Vida%2C%20Vendela_0.jpg?itok=T18IjS6_" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/vendela-vida">Vendela Vida&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/susan-vreeland"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Vreeland%2C%20Susan_0.jpg?itok=KNJeOVYc" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/susan-vreeland">Susan Vreeland&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/ayelet-waldman"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Waldman%2C%20Ayelet_0.jpeg?itok=3etNxrVD" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/ayelet-waldman">Ayelet Waldman&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/david-foster-wallace"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Wallace%2C%20David%20Foster_0.jpg?itok=M-0NpMbr" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/david-foster-wallace">David Foster Wallace&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/anthony-walton"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Walton%2C%20Anthony_0.jpg?itok=VMlcMSzN" width="131" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/anthony-walton">Anthony Walton&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/brad-watson"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Watson%2C%20Brad_0.jpg?itok=HBim7Ea7" width="160" height="90" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/brad-watson">Brad Watson&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/jennifer-weiner"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Weiner%2C%20Jennifer.jpg?itok=nrh6k8NQ" width="136" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/jennifer-weiner">Jennifer Weiner&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/irvine-welsh"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Create%20Basic%20page/Welsh%2C%20Irvine.jpg?itok=dtC6fX3K" width="140" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/irvine-welsh">Irvine Welsh&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/robert-wilson"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Wilson%2C%20Robert_1.jpg?itok=SNRJbH8d" width="160" height="120" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/robert-wilson">Robert Wilson&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/tom-wolfe"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Wolfe%2C%20Tom.jpg?itok=wv8oRjtz" width="140" height="140" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/tom-wolfe">Tom Wolfe&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/meg-wolitzer"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Wolitzer%2C%20Meg_0.jpg?itok=6USASA56" width="160" height="104" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/meg-wolitzer">Meg Wolitzer&#039;s Top Ten List</a>          </td>
+              </tr>
+          <tr class="odd views-row-last">
+                  <td class="views-field views-field-field-reader-photo" >
+            <a href="/authors/steve-yarbrough"><img typeof="foaf:Image" src="http://www.toptenbooks.net/sites/default/files/styles/medium/public/Yarbrough%2C%20Steve_0.jpg?itok=IELw_7Y4" width="160" height="107" alt="" /></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/authors/steve-yarbrough">Steve Yarbrough&#039;s Top Ten List</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+  </div>
+
+</div>
+                        <div class="art-layout-cell art-sidebar2 clearfix">  <div class="region region-sidebar-right">
+    <div class="block block-block" id="block-block-4">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  New List</h3>
+</div>        <div class="art-blockcontent"><p><strong>Francine Prose</strong></p>
+<p><img src="http://www.writersvoice.net/wp-content/uploads/2006/10/Francine-Prose.jpg" width="150" height="145" /></p>
+<p>1. <a href="http://www.amazon.com/exec/obidos/ASIN/0143035002/ref=nosim/totebo-20">Anna Karenina</a> by Leo Tolstoy (1877). <br /> 2. <a href="http://www.amazon.com/exec/obidos/ASIN/0679783180/ref=nosim/totebo-20">The Charterhouse of Parma</a> by Stendhal (1839). (See below.)<br /> 3. <a href="http://www.amazon.com/exec/obidos/ASIN/0812969642/ref=nosim/totebo-20">In Search of Lost Time</a> by Marcel Proust (1913–27). <br /> 4. <a href="http://www.amazon.com/exec/obidos/ASIN/0553381008/ref=nosim/totebo-20">The stories of Anton Chekhov</a> (1860–1904). <br /> 5. <a href="http://www.amazon.com/exec/obidos/ASIN/0375724427/ref=nosim/totebo-20">The stories of John Cheever</a> (1912–82). <br /> 6. <a href="http://www.amazon.com/exec/obidos/ASIN/1590170229/ref=nosim/totebo-20">The stories of Mavis Gallant</a> (1922– ). <br /> 7. <a href="http://www.amazon.com/exec/obidos/ASIN/0393972836/ref=nosim/totebo-20">Moby-Dick</a> by Herman Melville (1851). <br /> 8. <a href="http://www.amazon.com/exec/obidos/ASIN/0141439548/ref=nosim/totebo-20">Middlemarch</a> by George Eliot (1871–72). <br /> 9. <a href="http://www.amazon.com/exec/obidos/ASIN/0060883286/ref=nosim/totebo-20">One Hundred Years of Solitude</a> by Gabriel García Márquez (1967). <br /><br /></p>
+<p> </p>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-5">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  Classic List</h3>
+</div>        <div class="art-blockcontent"><p><strong>Amy Bloom</strong></p>
+<p> <img src="http://www.irishtimes.com/polopoly_fs/1.1930606.1410865041!/image/image.jpg_gen/derivatives/box_620_330/image.jpg" width="160" height="85" /></p>
+<p>1. <a href="http://www.amazon.com/exec/obidos/ASIN/0140147551/ref=nosim/totebo-20">The Deptford trilogy</a> by Robertson Davies (1983). <br /> 2.<a href="http://www.amazon.com/exec/obidos/ASIN/0393960188/ref=nosim/totebo-20">Persuasion</a> by Jane Austen (1817). <br /> 3. <a href="http://www.amazon.com/exec/obidos/ASIN/0375842381/ref=nosim/totebo-20">His Dark Materials</a>by Philip Pullman (1995–2000). <br /> 4.<a href="http://www.amazon.com/exec/obidos/ASIN/0143105507/ref=nosim/totebo-20">The Stone Diaries</a> by Carol Shields (1995). <br /> 5.<a href="http://www.amazon.com/exec/obidos/ASIN/0060557559/ref=nosim/totebo-20">The Known World</a> by Edward P. Jones (2003). <br /> 6. <a href="http://www.amazon.com/exec/obidos/ASIN/0679732713/ref=nosim/totebo-20">The Beggar Maid</a> by Alice Munro (1978). <br /> 7. <a href="http://www.amazon.com/exec/obidos/ASIN/1400079497/ref=nosim/totebo-20">The Plot Against America</a>by Philip Roth. <br /> 8. <a href="http://www.amazon.com/exec/obidos/ASIN/0312305060/ref=nosim/totebo-20">The Hours</a> by Michael Cunningham (1998). <br /> 9. <a href="http://www.amazon.com/exec/obidos/ASIN/1590170512/ref=nosim/totebo-20">Fancies and Goodnights</a> by John Collier (1951). <br /> 10. <a href="http://www.amazon.com/exec/obidos/ASIN/0140266771/ref=nosim/totebo-20">Larry’s Party</a> by Carol Shields (1997). </p>
+<p></p>
+<div> </div>
+
+<p><em></em></p>
+<p> </p>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-15">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  Read On Amazon Fire Phone</h3>
+</div>        <div class="art-blockcontent"><div style="background-color: #dedede; margin: 0 auto; padding: 0; text-align: center;">
+<p style="font-family: Ubuntu, Arial, 'Arial Unicode MS', Helvetica, sans-serif; line-height: 19.5px; background-color: #dedede; color: light-blue; padding: 0; text-align: center; margin: 0;">Read Your Books and do so much more. You have to see it to believe it! What a great gift for Christmas</p>
+<p style="font-family: Ubuntu, Arial, 'Arial Unicode MS', Helvetica, sans-serif; line-height: 19.5px; background-color: #dedede; color: light-blue; padding: 0; text-align: center; margin: 0;"><a href="http://www.amazon.com/gp/product/B00OC0USA6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00OC0USA6&amp;linkCode=as2&amp;tag=totebo07-20&amp;linkId=4QJOFBHY64ZMGCVA">Amazon Fire Phone, 32GB (Unlocked GSM)<img src="http://futurewavewebdevelopment.com/images/firephone.gif" alt="Read Your books on Amazon Firephone and do so much more" border="0" style="border: none !important; margin: 0px !important; padding: 0; background-color: #dedede; text-align: center;" /></a></p>
+<p> </p>
+</div>
+</div>
+</div></div>
+  </div>
+</div>                    </div>
+                </div>
+            </div>
+    </div>
+<footer class="art-footer clearfix">
+  <div class="art-footer-inner">
+<p><a href="#">Link1</a> | <a href="#">Link2</a> | <a href="#">Link3</a></p>
+<p>Copyright © 2013. All Rights Reserved.</p>
+    <p class="art-page-footer">
+        <span id="art-footnote-links">Powered by <a href="http://drupal.org/">Drupal</a> and <a href="http://www.artisteer.com/?p=drupal_themes">Drupal Theme</a> created with Artisteer.</span>
+    </p>
+  </div>
+</footer>
+
+</div>
+
+
+  </body>
+</html>

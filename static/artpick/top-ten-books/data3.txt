@@ -1,0 +1,500 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.toptenbooks.net/ns#"
+  xmlns:schema="http://schema.org/">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.toptenbooks.net/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>www.toptenbooks.net</title>
+  <link type="text/css" rel="stylesheet" href="http://www.toptenbooks.net/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.toptenbooks.net/sites/default/files/css/css_qCJgurV9nUR4xKW0SZzjZdQfVevJNRITgozM8cOiPsU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.toptenbooks.net/sites/default/files/css/css_MaIfARs4I8o_qwipO1AXINTR8__AtlfqdAfAEJ7GMag.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.toptenbooks.net/sites/default/files/css/css_yxXdALdE16_HF-H7PaSqy7qcKQq2bTkGIBMHiCahN3o.css" media="screen" />
+  <script type="text/javascript" src="http://www.toptenbooks.net/sites/default/files/js/js_tm1gahPj5RurExr4Zj4GdGvvL7W4-u6_XRVeEsXyp3Q.js"></script>
+<script type="text/javascript" src="http://www.toptenbooks.net/sites/default/files/js/js_5ZvYbR_RpAnAa4Gy_hGCjwhuaBQEWzQIAwlMCStkIuU.js"></script>
+<script type="text/javascript" src="http://www.toptenbooks.net/sites/default/files/js/js_EDJQ3pT8m_o_gVwr2Fu9sbaagT-mmUnPa1EKNKMCAC8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-27144638-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.toptenbooks.net/sites/default/files/js/js_mWGN-7feM0dykOe10BsRmXBnwHDP2rhavxgUCxFKCHU.js"></script>
+<script type="text/javascript" src="http://www.toptenbooks.net/sites/default/files/js/js_SzoD-oTDjUbYz0xasCOefLUCJFKVE7FlZ6eSseNFBSM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"toptenbooks7","theme_token":"CdnICyH8vKoNrrd4URaLkONKyATIFRmUjyfi-AZz73Q","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/iframe\/iframe.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/toptenbooks7\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/colorbox_node\/colorbox_node.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/libraries\/colorbox\/example3\/colorbox.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/quotes\/quotes.css":1,"sites\/all\/themes\/toptenbooks7\/style.css":1,"sites\/all\/themes\/toptenbooks7\/custom.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:ee4def8fc95da4abf373542dcc2c9da5":{"view_name":"the_list_of_books_view","view_display_id":"page","view_args":"","view_path":"the-list-of-books-view","view_base_path":"the-list-of-books-view","view_dom_id":"ee4def8fc95da4abf373542dcc2c9da5","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"colorbox_node":{"width":"75%","height":"75%"}});
+//--><!]]>
+</script>
+  <!-- Created by Artisteer v4.0.0.58475 -->
+
+<meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width">
+
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+<!--[if lte IE 7]><link rel="stylesheet" href="/sites/all/themes/toptenbooks7/style.ie7.css" media="screen" /><![endif]-->
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu&amp;subset=latin">
+
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-the-list-of-books-view" >
+    
+<div id="art-main">
+<header class="art-header clearfix">
+
+    <div class="art-shapes">
+
+
+            </div>
+
+                        
+                    
+</header>
+<nav class="art-nav clearfix">
+    <div class="art-nav-inner">
+     
+        <ul class="art-hmenu"><li class="first leaf"><a href="http://toptenbooks.net" title="">Home</a></li>
+<li class="leaf"><a href="/all-author-list" title="">Author Lists</a></li>
+<li class="leaf"><a href="/all-time-top-ten-lists">All-Time Top Ten Lists</a></li>
+<li class="leaf"><a href="/reader-top-ten-lists" title="">Reader Lists</a></li>
+<li class="leaf"><a href="/about-editor">About the Editor</a></li>
+<li class="leaf active-trail active"><a href="/the-list-of-books-view" title="" class="active-trail active">The List of Books</a></li>
+<li class="last leaf"><a href="http://toptenbooks.net/thebooks/node/add/reader-top-ten-list" title="">Submit Your List</a></li>
+</ul>
+</div>
+    </nav>
+<div class="art-sheet clearfix">
+            <div class="art-layout-wrapper clearfix">
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        <div class="art-layout-cell art-sidebar1 clearfix">  <div class="region region-sidebar-left">
+    <div class="block block-block" id="block-block-11">
+<div class="art-block clearfix">
+                <div class="art-blockcontent"><p><a href="http://www.amazon.com/exec/obidos/ASIN/1611175089/ref=nosim/totebo07-20" target="_blank">Order J. Peder Zane's new collection of essays and reviews.</a></p>
+<p><a href="http://www.amazon.com/exec/obidos/ASIN/1611175089/ref=nosim/totebo07-20"><img src="/sites/default/files/Off%20the%20Books.jpg" width="172" height="250" /></a></p>
+<p><a href="http://www.amazon.com/gp/product/B00BHJRYYS/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00BHJRYYS&amp;linkCode=as2&amp;tag=totebo07-20" target="_blank"> </a></p>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-16">
+<div class="art-block clearfix">
+                <div class="art-blockcontent"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Left side Square ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:200px"
+     data-ad-client="ca-pub-5779752220273005"
+     data-ad-slot="5269355481"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div></div>
+<div class="block block-block" id="block-block-1">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  The Book: The Top Ten</h3>
+</div>        <div class="art-blockcontent"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0393328406/ref=nosim/totebo07-20" target="_blank" style="line-height: 1.538em;"><img src="http://www.toptenbooks.net/sites/default/files/images/book_lg.gif" /></a></p>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-10">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  Future Wave Web Development</h3>
+</div>        <div class="art-blockcontent"><p>Site Maintained/Supported by <a href="http://futurewavewebdevelopment.com" target="_blank"> Bruce Whealton, dba Future Wave Web Development</a></p>
+<h4><a href="http://futurewavewebdevelopment.com/WebDesignSpecial.html" target="_blank">Special Offer $299 Websites</a></h4>
+<p><a href="http://futurewavewebdevelopment.com/WebDesignSpecial.html" target="_blank"><img src="http://toptenbooks.net/sites/default/files/fwlogo/fwlogoTransSm.png" /></a></p>
+<p><a href="http://futurewavewebdevelopment.com/WebDesignSpecial.html" target="_blank">Visit Future Wave for all your Web Development, Mobile Android App Needs</a></p>
+<p><a href="https://plus.google.com/104163742620406482151/?rel=author"> Google+ Profile for Bruce Whealton</a></p>
+</div>
+</div></div>
+  </div>
+</div>                        <div class="art-layout-cell art-content clearfix"><div id="banner3">  <div class="region region-banner3">
+    <div class="block block-block" id="block-block-17">
+<div class="content">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Top Banner Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-5779752220273005"
+     data-ad-slot="9726027085"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+  </div>
+</div>
+<article class="art-post art-article">
+                                
+                                                
+                <div class="art-postcontent"><h2 class="element-invisible art-postheader">You are here</h2><div class="breadcrumb art-postcontent"><a href="/">Home</a></div></div>
+</article>
+<article class="art-post art-article">
+                                
+                                                
+                <div class="art-postcontent">      </div>
+    </article>
+    <div class="region region-content">
+    <div class="block block-system" id="block-system-main">
+<div class="content">
+<div class="view view-the-list-of-books-view view-id-the_list_of_books_view view-display-id-page view-dom-id-ee4def8fc95da4abf373542dcc2c9da5">
+            <div class="view-header">
+      <h2>The List of Books</h2>
+<p><em><br />
+  We awarded points for each selection – 10 points for a first place pick, nine points for a second place pick, and so on. Then we totaled up all the points and ranked them accordingly. Here are all the books ordered by the number of points each earned. In the parentheses are the initials of the authors that selected them and the points earned. Click on their initials to see their list. </em></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0375759077/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Cousin%20Bette.jpg" width="79" height="123" />Cousin Bette</a> by Honoré de Balzac (1847). Lisbeth (Bette) Fischer, a seamstress for the demimonde of actresses and courtesans and the poor relation of Baron Hulot, has a secret: she is helping to support a poor but noble Polish sculptor. Baron Hulot’s daughter Hortense discovers the secret and helps herself to the handsome sculptor. Bette then unleashes an underhanded stratagem dictated by her implacably vengeful heart: using Baron Hulot’s insatiable lust as a lever, Bette organizes her courtesan connections to ruin him, both morally and financially. Scary and psychologically acute.</p>
+<p><strong>Total Points: 18 </strong>(<a href="http://www.toptenbooks.net/authors/Elizabeth-Flock">EF</a> 9) (<a href="http://www.toptenbooks.net/authors/Tom-Wolfe">TW</a> 9)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0140424520/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Don%20Juan.jpg" width="75" height="123" />Don Juan</a> by Lord Byron (1819). Byron was a gentleman, a womanizer, a cad, and a liberator. He poured a lifetime of observations into this seventeen canto poem. Ostensibly about a Spanish boy sent abroad by his mother after an unfortunate love affair, it has the spontaneous gaiety of a man who is courteously maintaining the fiction that the reader’s experience of women, politics, poetry, and the world is as extensive as his own. Thus Byron transformed his greatest masterpiece—his life—into art.</p>
+<p><strong>Total Points: 18 </strong>(<a href="http://www.toptenbooks.net/authors/Julian-Barnes">JBarn</a> 9) (<a href="http://www.toptenbooks.net/authors/jennifer-egan">JE</a> 1) (<a href="http://www.toptenbooks.net/authors/Jonathan-Raban">JR</a> 8)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0072434198/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Love%20Medicine.jpg" width="82" height="123" />Love Medicine</a> by Louise Erdrich (1984). The form of this novel, about two Native American families, reenacts that of a traditional Chippewa Indian story cycle—fourteen stories told by seven characters, forming a collage that forces the reader to sift through and weigh voice against voice, truth against truth. The book’s main story—a long-standing love triangle among a husband and wife and the promiscuous Lulu Lamartine—is often upstaged by Erdrich’s antimythic portrayal of Native Americans cut off from their traditional land, culture, and gods.</p>
+<p><strong>Total Points: 18 </strong>(<a href="http://www.toptenbooks.net/authors/T-C-Boyle">TCB</a> 10) (<a href="http://www.toptenbooks.net/authors/josephine-humphreys">JHUMP 7</a>) (<a href="http://www.toptenbooks.net/authors/laila-lalami">LL</a> 1)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0140455124/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Notes%20from%20undeground.jpg" width="75" height="123" />Notes from the Underground</a> by Fyodor Dostoevsky (1864). Aloof, unhappy, and tortured by his own “hyperconsciousness,” Dostoevsky’s narrator prefers to remain underground, away from normal life, because at least there he can be free. When he forces himself to dine with three schoolfellows, their carefree laughter and drinking sends him “into a fury.” Afterward, he is seemingly moved by the plight of a young prostitute. But neither pity nor love is re­ deeming in this story whose narrator asks: “Which is better—cheap happiness or exalted suffering?” Dostoevsky’s preference is clear.</p>
+<p><strong>Total Points: 18 </strong>(<a href="http://www.toptenbooks.net/authors/John-Banville">JB</a> 9) (<a href="http://www.toptenbooks.net/authors/Ethan-Canin">EC</a> 9)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0451169530/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Stand.jpg" width="83" height="123" />The Stand</a> by Stephen King (1978). This vivid apocalyptic tale with dozens of finely drawn characters begins with the military’s mistaken release of a deadly superflu that wipes out almost everyone on earth. The few survivors, spread out across the barren United States, are visited in their dreams by a kindly old woman in Nebraska and a sinister man in the West. They begin making their way toward these separate camps for what will prove to be a last stand between the forces of good and evil.</p>
+<p><strong>Total Points: 18 </strong>(<a href="http://www.toptenbooks.net/authors/David-Foster-Wallace">DFW</a> 9) (<a href="http://www.toptenbooks.net/authors/Jennifer-Weiner">JW</a> 9)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/1903436087/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Tempest.jpg" width="74" height="123" />The Tempest</a> by William Shakespeare (1610). The happy peace that Prospero, a powerful magician and former Duke of Milan, and his daughter Miranda share on an enchanted island is broken when a group of Prospero’s former enemies and friends is shipwrecked there. Through the services of his two servants, the base Caliban, to whom the island had originally belonged, and the sprite Ariel, Prospero exacts revenge upon his stranded enemies while engineering the marriage of his daughter to a young nobleman. Anticipating themes that would inform colonial and postcolonial literature— usurpation, bondage, rebellion— ­this was Shakespeare’s last play without a collaborator.</p>
+<p><strong>Total Points: 18 </strong>(<a href="http://www.toptenbooks.net/authors/Karen-Joy-Fowler">KJF</a> 9) (<a href="http://www.toptenbooks.net/authors/Mary-Gordon">MG</a> 4) (<a href="http://www.toptenbooks.net/authors/Stewart-O%E2%80%99Nan">SO’N</a> 5)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0060838671/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Eyes%20were%20watching%20god.jpg" width="123" height="123" />Their Eyes Were Watching God</a> by Zora Neale Hurston (1937). Beautiful and high-spirited Janie Crawford wants love and adventure. But, as Hurston shows in her finest novel, living in an all-black town is no shield against the sexism that dictates her young life. Forced to marry one controlling old geezer, she deserts him only to end up with another. When she marries Tea Cake, Janie finally enjoys the essence of a true relationship. Her happiness is short-lived when disaster strikes, but it becomes the catalyst for ultimate self-discovery.</p>
+<p><strong>Total Points: 18 </strong>(<a href="http://www.toptenbooks.net/authors/Pearl-Cleage">PCle</a> 8) (<a href="http://www.toptenbooks.net/authors/Edwidge-Danticat">ED</a> 10)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0156711427/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/A%20Passage%20to%20India.jpg" width="81" height="123" />A Passage to India</a> by E. M. Forster (1924). A handful of English people searching for the “real” India get far more than they bargained for—up to and including a terrifying transcendental experience in a very dark cave. Forster’s novel of the Raj is infused with a generous, liberal humanism; the author writes like a man determined that Indians should populate a novel of India, and he succeeds in this beautifully imagined portrait of both colonizer and colonized.</p>
+<p><strong>Total Points: 17 </strong>(<a href="http://www.toptenbooks.net/authors/Jim-Crace">JC</a> 4) (<a href="http://www.toptenbooks.net/authors/Reynolds-Price">RPri</a> 5) (<a href="http://www.toptenbooks.net/authors/Meg-Wolitzer">MW</a> 8)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0140440046/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Candide.jpg" width="78" height="123" />Candide</a> by Voltaire (1759). In this withering satire of eighteenth-century optimism, Candide wanders the world testing his tutor Pangloss’s belief that we live in the “best of all possible worlds.” When Candide loses his true love, gets flogged in the army, injured in an earthquake, and robbed in the New World, he finally muses, “If this is the best of all possible worlds, what are the others?” In response to life’s mysteries, he concludes, the best we can do is patiently cultivate our own gardens.</p>
+<p><strong>Total Points: 17 </strong>(<a href="http://www.toptenbooks.net/authors/Julian-Barnes">JBarn</a> 6) (<a href="http://www.toptenbooks.net/authors/Clyde-Edgerton">CE</a> 1) (<a href="http://www.toptenbooks.net/authors/G-D-Gearino">GDG</a> 10)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0140432159/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Clarrisa.jpg" width="73" height="123" />Clarissa</a> by Samuel Richardson (1747–48). This long epistolary novel—full of sexual tension, violence, and psychic conflict—tells the tale of the virtuous Clarissa Harlowe and her rakish suitor, Robert Lovelace. Disowned by her family, confined in a brothel and raped, Clarissa pays a high price for her morality. Yet she accepts her fate with a moving acceptance in this landmark of English realistic fiction.</p>
+<p><strong>Total Points: 17 </strong>(<a href="http://www.toptenbooks.net/authors/Emma-Donoghue">EDon</a> 10) (<a href="http://www.toptenbooks.net/authors/Vendela-Vida">VV</a> 7)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0375757325/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Robinson%20Crusoe.jpg" width="72" height="123" />Robinson Crusoe</a> by Daniel Defoe (1719). This rollicking yet existential adventure with deep religious undertones begins with fatherly advice: pursue a stable career. But the wastrel son denies his father because he is tempted by the sea. This salty path gets young Robinson kidnapped by Moorish pirates, sold into slavery, and shipwrecked on a remote island filled with cannibals. Yet this island seems an Eden to Crusoe, whose ingenuity enables him to tame the land, conquer the natives, and save the life of an islander, whom he makes his servant and christens Man Friday, as he comes to recognize and accept God’s will.</p>
+<p><strong>Total Points: 17 </strong>(<a href="http://www.toptenbooks.net/authors/Jim-Crace">JC</a> 7) (<a href="http://www.toptenbooks.net/authors/Allan-Gurganus">AG</a> 10)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0812966074/ref=nosim/totebo07-20http:/www.amazon.com/exec/obidos/ASIN/0812966074/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Tom%20Jones.jpg" width="80" height="123" />Tom Jones </a> by Henry Fielding (1749). Squire Allworthy provides a loving home to his bad nephew Blifil and the bastard orphan Tom. Lusty Tom is sent away after an affair with a local girl whom Blifil desires, and he begins his picaresque adventures on the way to London, including love affairs, duels, and imprisonment. Comic, ribald, and highly entertaining, Tom Jones reminds us just how rowdy the eighteenth century got before the nineteenth came and stopped the fun.</p>
+<p><strong>Total Points: 17 </strong>(<a href="http://www.toptenbooks.net/authors/Fred-Chappell">FC</a> 1) (<a href="http://www.toptenbooks.net/authors/Andrew-Hudgins">AHud</a> 5) (<a href="http://www.toptenbooks.net/authors/Wally-Lamb">WL</a> 7) (<a href="http://www.toptenbooks.net/authors/David-Mitchell">DM</a> 4)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0452284236/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/1984.jpg" width="75" height="123" />1984</a> by George Orwell (1948). Orwell’s reputation as an antiauthoritarian arises in large part from this novel set in a totalitarian future in which citizens are constantly reminded “Big Brother is watching” as they are spied upon by the Thought Police and one another. In this landscape, Winston Smith is a man in danger simply because his memory works. He understands that the Party’s total control of its citizens is based on its ability to control its message and its citizens’ memories, and he is slowly drawn into a dangerous love affair and then an alliance, called the Brotherhood, of men and women united to fight Big Brother. Some of the vocabulary Orwell created for 1984—newspeak, doublethink, Big Brother—have become part of today’s vocabulary.</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/Stephen-King">SK</a> 4) (<a href="http://www.toptenbooks.net/authors/David-Mitchell">DM</a> 9) (<a href="http://www.toptenbooks.net/authors/Ian-Rankin">IR</a> 3)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0060822554/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Ask%20the%20Dust.jpg" width="82" height="123" />Ask the Dust</a> by John Fante (1939). This coming-of-age tale features Fante’s alter ego, Arturo Bandini: a poor, innocent, aspiring writer from Colorado, stretching out his limbo in 1930s Los Angeles. Bandini prowls the city’s dusty alleys for experience he can turn into prose, eats oranges in his hotel room, and dreams of success. Awkward with women, he falls for a troubled Mexican waitress but can’t sustain the relationship. He squanders what little money he earns. All he desires is literary glory, so that even when he nearly drowns, he thinks: “This was the end of Arturo Bandini—but even then I was writing it all down.”</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/Adam-Braver">ABrav</a> 5) (<a href="http://www.toptenbooks.net/authors/Douglas-Coupland">DC</a> 2) (<a href="http://www.toptenbooks.net/authors/Heidi-Julavits">HJ</a> 2) (<a href="http://www.toptenbooks.net/authors/George-Pelacanos">GP</a> 7)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0060822554/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Ask%20the%20Dust.jpg" width="82" height="123" />Ask the Dust</a> by John Fante (1939). This coming-of-age tale features Fante’s alter ego, Arturo Bandini: a poor, innocent, aspiring writer from Colorado, stretching out his limbo in 1930s Los Angeles. Bandini prowls the city’s dusty alleys for experience he can turn into prose, eats oranges in his hotel room, and dreams of success. Awkward with women, he falls for a troubled Mexican waitress but can’t sustain the relationship. He squanders what little money he earns. All he desires is literary glory, so that even when he nearly drowns, he thinks: “This was the end of Arturo Bandini—but even then I was writing it all down.”</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/Adam-Braver">ABrav</a> 5) (<a href="http://www.toptenbooks.net/authors/Douglas-Coupland">DC</a> 2) (<a href="http://www.toptenbooks.net/authors/Heidi-Julavits">HJ</a> 2) (<a href="http://www.toptenbooks.net/authors/George-Pelacanos">GP</a> 7)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0393957241/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Gulliver%27s%20Travels.jpg" width="81" height="123" />Gulliver’s Travels</a> by Jonathan Swift (1726, 1735). Lemuel Gulliver, a ship’s doctor, embarks on four wondrous voyages from England to remote nations. Gulliver towers over six-inch Lilliputians and cowers under the giants in Brobdingnag. He witnesses a flying island and a country where horses are civilized and people are brutes. Fanciful and humorous, Swift’s fictional travelogue is a colorfully veiled but bitter indictment of eighteenth-century politics and culture.</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/John-Banville">JB</a> 2) (<a href="http://www.toptenbooks.net/authors/Stanley-Crawford">SCraw</a> 10) (<a href="http://www.toptenbooks.net/authors/Andrew-Hudgins">AHud</a> 4)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/067972575X/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Jesus%27%20Son.jpg" width="75" height="123" />Jesus’ Son</a> by Denis Johnson (1992). Although the title comes from Lou Reed’s song “Heroin,” it assumes another meaning in this collection of eleven linked short stories about a character who endures drug addiction, car crashes, and violence to learn who he is and achieve some grace. The characters sometimes seem futile as they score drugs and scrounge for money and love, but the real story is the narrator’s fumbling process toward self-discovery.</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/Adam-Braver">ABrav</a> 3) (<a href="http://www.toptenbooks.net/authors/Judy-Budnitz">JBud</a> 9) (<a href="http://www.toptenbooks.net/authors/Walter-Kirn">WK</a> 4)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0811216993/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Labyrinths.jpg" width="80" height="123" />Labyrinths</a> by Jorge Luis Borges (1964). Simultaneously philosophical and nightmarish, this collection of short stories, parables, and essays popularized both Latin American magic realism as well as metafiction. Borges, a blind Argentine librarian and polymath, here provides almost mathematically concise miniatures—of a man who remembers literally everything, for instance—that read like episodes of The Twilight Zone as written by a metaphysician.</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/Michael-Chabon">MC</a> 10) (<a href="http://www.toptenbooks.net/authors/Norman-Mailer">NM</a> 1) (<a href="http://www.toptenbooks.net/authors/David-Mitchell">DM</a> 3) (<a href="http://www.toptenbooks.net/authors/Iain-Pears">IP</a> 2)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/1582435685/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Mrs.%20Bridge.jpg" width="80" height="123" />Mrs. Bridge</a> (1959) and <a href="http://www.amazon.com/exec/obidos/ASIN/1593760604/ref=nosim/totebo07-20">Mr. Bridge</a> (1969) by Evan S. Connell. This his and hers pairing, like twinned guest towels, reveals dirty fingerprints on the underside of a tidy looking 1930s Midwestern, middle-class marriage. Through fragments of conversations, overheard remarks, and wry observations, Connell slices into the Bridges’ relationship, first revealing Mrs. Bridge’s evaporation into suburban ennui, then exposing Mr. Bridge’s increasing distance and disdain. The novels, set a decade apart, reveal two dimensions of the troubled family, which includes three children.</p>
+<p>(<a href="http://www.toptenbooks.net/authors/Ethan-Canin">EC</a> 1) (<a href="http://www.toptenbooks.net/authors/Denise-Gess">DG</a> 8) (<a href="http://www.toptenbooks.net/authors/Meg-Wolitzer">MW</a> 7)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-20 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0375753206/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Age%20of%20Innocence.jpg" width="77" height="123" />The Age of Innocence</a> by Edith Wharton (1920). Martin Scorsese called his 1993 movie of this novel the most violent film he had made—quite a statement from the director of Raging Bull. The innocence here is not in the setting of 1870s upper-crust New York, whose starch-stiff social code hides a viper’s nest of jealousies and conspiracy, but in hero Newland Archer, a newlywed socialite who fancies himself simply an observer of his class. His infatuation with a European divorcée leads to a most unsentimental education on his true position.</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/Susan-Minot">SM</a> 6) (<a href="http://www.toptenbooks.net/authors/Alix-Ohlin">AO</a> 5) (<a href="http://www.toptenbooks.net/authors/Lionel-Shriver">LShriv</a> 5)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-21 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/1590170342/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Fountain%20Overflows.jpg" width="77" height="123" />The Fountain Overflows</a> by Rebecca West (1956).</p>
+<p><em>Appreciation of Rebecca West’s The Fountain Overflows by Margot Livesey</em></p>
+<p>I don’t know why I waited so long to read The Fountain Overflows. There was a copy in the library of my Scottish school; after all, the novel sold 40,000 copies in 1956, the year it was published. Perhaps it was even in my father’s library, squeezed between, say, Aldous Huxley’s Chrome Yellow and Evelyn Waugh’s Decline and Fall, two novels I adored. The book was around but the truth is I didn’t want to read it, in part because I associated it with Black Lamb and Grey Falcon, West’s massive tome about pre–World War II Yugo­ slavia, which I didn’t want to read even more. I finally succumbed only a few years ago at the urging of a dear friend.</p>
+<p>Some books, much lauded on publication, rapidly gather dust, but luckily for me The Fountain Overflows remains as lustrous and passionate as when West penned the last page. The novel tells the story of the Aubrey family living in Edwardian London. Mr. Aubrey is a charismatic and unreliable journalist; Mrs. Aubrey, a former pianist, is an awkward woman of immense moral intelligence. Around these two orbit the Aubrey children: the musical Mary and Rose, the awful Cordelia who wants to be musical, and the beloved Richard Quinn. The story is told by Rose.</p>
+<p>One scene captures for me West’s genius. A man comes to complain to Mrs. Aubrey about her husband having an affair with his wife. After she has done her best to cheer him up, Mrs. Aubrey takes refuge in Madame Bovary and, by the time her husband arrives home, is absorbed in the novel. Together they praise and criticize Flaubert. Only then does she recall what brought herto pick up the novel in the first place. “I am really very heartless,” she cried, rising to her feet. “But art is so much more real than life. Some art is much more real than some life, I mean.”</p>
+<p>And this is exactly how I feel about The Fountain Overflows; it is more real, and more pleasurable, than most life.</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/Margot-Livesey">ML</a> 7) (<a href="http://www.toptenbooks.net/authors/Dennis-McFarland">DMcF</a> 9)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-22 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0679733973/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Killer%20Inside%20Me.jpg" width="78" height="123" />The Killer Inside Me</a> by Jim Thompson (1952). Lou Ford is the boy next door—a deputy sheriff in his Texas hometown. But he suffers from “the sickness,” which urges him to kill women and others who get in his way. Through Ford’s chilling first-person narration, Thompson takes us inside the mind of a serial killer.</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/Adam-Braver">ABrav</a> 7) (<a href="http://www.toptenbooks.net/authors/Walter-Kirn">WK</a> 9)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-23 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0394757688/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Long%20Goodbye.jpg" width="82" height="123" />The Long Goodbye</a> by Raymond Chandler (1953). Chandler’s sardonic and chivalric gumshoe Philip Marlowe winds up in jail when he refuses to betray a client to the Los Angeles police investigating the murder of a wealthy woman. Marlowe’s incorruptibility and concentration on the case are challenged even more when the obsessively independent private eye falls in love, apparently for the first time, with a different rich and sexy woman. She proposes marriage, but he puts her off, claiming he feels “like a pearl onion on a banana split” among her set.</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/Michael-Chabon">MC</a> 1) (<a href="http://www.toptenbooks.net/authors/Michael-Connelly">MCon</a> 4) (<a href="http://www.toptenbooks.net/authors/George-Pelacanos">GP</a> 5) (<a href="http://www.toptenbooks.net/authors/Robert-Wilson">RW</a> 6)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-24 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0312270828/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Satanic%20Verses.jpg" width="83" height="123" />The Satanic Verses</a> by Salman Rushdie (1988).  After terrorists blow up their plane, two Indian actors fall from the sky. When they land, one has a halo, the other horns. This lush, lyric, sensual, and surreal novel then follows two main interrelated plots that skate along the blurry lines between good and evil, love and betrayal, knowledge and ignorance. The first plot line details these men’s tangled lives and strange transformations in London and Bombay; the second reimagines the life of Mohammed so critically that Iran’s Ayatollah Khomeni issued a death sentence against Rushdie.</p>
+<p><strong>Total Points: 16 </strong>(<a href="http://www.toptenbooks.net/authors/christopher-bollen">CBollen</a> 8) (<a href="http://www.toptenbooks.net/authors/Stephen-King">SK</a> 8)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-25 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0226677141/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/dance%20to%20the%20music%20of%20time.jpg" width="82" height="123" />A Dance to the Music of Time</a> by Anthony Powell (1951–75). Powell’s panoramic series of twelve freestanding novels, grouped in four “movements,” charts the careers of four public-school friends from 1921 to 1971 against the backdrop of rapidly changing London. Built mosaic-like from many intimate, seemingly inconsequential encounters and scenes, the narrative moves with the pace, prismatic glitter, and cumulative force of a glacier, sweeping along sex, art, business, politics, and values in its wake. Devotees, who consider Powell to be England’s answer to Proust, praise the elegant style, intricate plotting, and above all the masterly characterizations, in a work that encompasses comedy, tragedy, and realism.</p>
+<p><strong>Total Points: 15 </strong>(<a href="http://www.toptenbooks.net/authors/Alan-Furst">AF</a> 9) (<a href="http://www.toptenbooks.net/authors/Jonathan-Lethem">JL</a> 6)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-26 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0375701230/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/sites/default/files/Death%20in%20the%20Family.jpg" width="160" height="246" />A Death in the Family</a> by James Agee (1957). A Pulitzer Prize–winning work of autobiographical fiction tells the story of a Knoxville, Tennessee, family torn asunder by the father’s accidental death in 1915. In stunningly gorgeous prose, Agee chronicles the family’s life before and after the tragedy (as well as the larger community they live in), to depict the fragility of happiness, of family, and of life itself.</p>
+<p><strong>Total Points: 15 </strong>(<a href="http://www.toptenbooks.net/authors/Allan-Gurganus">AG</a> 6) (<a href="http://www.toptenbooks.net/authors/Donald-Harington">DH</a> 9)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-27 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0802130305/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Ficciones.jpg" width="80" height="123" />Ficciones</a> by Jorge Luis Borges (1944). Few twentieth-century literary works were as influential as Borges’s first collection of surreal “fictions.” Showcasing his deeply serious, brilliantly playful fascination with language, literature, and metaphysics, these seventeen stories—about imaginary books and labyrinthine libraries, cosmic detectives and strange lands—ask us to wonder about how we know what we know (or think we know) while helping light the fuse of postmodern pyrotechnics.</p>
+<p><strong>Total Points: 15 </strong>(<a href="http://www.toptenbooks.net/authors/T-C-Boyle">TCB</a> 3) (<a href="http://www.toptenbooks.net/authors/Ken-Kalfus">KK</a> 5) (<a href="http://www.toptenbooks.net/authors/Alix-Ohlin">AO</a> 7)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-28 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0156453800/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/invisible%20cities.jpg" width="80" height="123" />Invisible Cities</a> by Italo Calvino (1972). Fearing that his empire’s vastness has made it “an endless, formless ruin,” Kublai Khan asks the traveler Marco Polo to describe it to him so he might understand and thereby control it. What Polo offers are accounts of surreal places—“hidden cities,” “trading cities,” and “thin cities” (whose buildings have no walls, floors or ceilings)—inhabited by people whose actions seem inexplicable in this novel of ideas concerned with memory and time, language and community, and the landscapes of the physical world and the imagination.</p>
+<p><strong>Total Points: 15 </strong>(<a href="http://www.toptenbooks.net/authors/Jim-Crace">JC</a> 9) (<a href="http://www.toptenbooks.net/authors/Margot-Livesey">ML</a> 6)</p>
+<p> </p>
+</div>  </div>  </div>
+  <div class="views-row views-row-29 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0316184136/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Emily%20Dickinson.jpg" width="80" height="123" />Poems of Emily Dickinson</a> (1830–86). Quirkily punctuated and rhymed, thoughtful and unsentimental, these brief, aphoristic lyrics meditate upon God, nature, and the internal weather of the emotions—“The soul unto itself / Is an Imperial friend—/ Or the most agonizing spy / An enemy could send.” A spinster who published only two of her nearly two thousand poems, Dickinson saw her work as a vehicle for spiritual exploration and as messages to a world “that never wrote to me.”</p>
+<p><strong>Total Points: 15 </strong>(<a href="http://www.toptenbooks.net/authors/Sherman-Alexie">SA</a> 8) (<a href="http://www.toptenbooks.net/authors/Joyce-Carol-Oates">JCO</a> 7)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-30 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/1903436419/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Romeo%20and%20Juliet.jpg" width="88" height="123" />Romeo and Juliet</a> by William Shakespeare (1595). The story of star-crossed Veronese lovers, this early romantic tragedy painfully depicts the fatal course of young lovers ruined by circumstances beyond their control, belonging as they do to two families who hate each other for long forgotten reasons. The intense violence at the heart of the play is matched only by the intense passion of Romeo and Juliet, who pay the ultimate price for the brief, intense, and pure love they shared.</p>
+<p><strong>Total Points: 15 </strong>(<a href="http://www.toptenbooks.net/authors/Emma-Donoghue">EDon</a> 9) (<a href="http://www.toptenbooks.net/authors/Lorrie-Mooore">LM</a> 5) (<a href="http://www.toptenbooks.net/authors/Jodi-Picoult">JPico</a> 1)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-31 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0142437301/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Power%20and%20the%20glory.jpg" width="81" height="123" />The Power and the Glory</a> by Graham Greene (1940). In all of Greene’s prolific career, he never surpassed the stark beauty of this tale of a priest who is virtuous despite himself. Set in Mexico during the revolution, when Catholicism was illegal, the novel follows the movements of a character known only as “the whisky priest”—he drinks, he bilks the faithful, he has fathered a child. But as his world narrows and he must make life or death choices, his life becomes a complicated display of salvation.</p>
+<p><strong>Total Points: 15 </strong>(<a href="http://www.toptenbooks.net/authors/Gail-Godwin">GG</a> 5) (<a href="http://www.toptenbooks.net/authors/Erin-McGraw">EM</a> 5) (<a href="http://www.toptenbooks.net/authors/Scott-Spencer">SS</a> 5)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-32 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0140257683/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/regeneration%20trilogy.jpg" width="81" height="123" />The Regeneration trilogy</a> by Pat Barker (1995). These three novels—­Regeneration (1991), The Eye in the Door (1993), and The Ghost Road (1995)—offer an unflinching look at World War I. Starting with the real-life psychiatric treatment of poet and British officer Sigfried Sassoon for shellshock, Barker shows how the war ruined but failed to replace nineteenth-century norms of gender, class, sexuality, and honor.</p>
+<p><strong>Total Points: 15 </strong>(<a href="http://www.toptenbooks.net/authors/Dennis-McFarland">DMcF</a> 6) (<a href="http://www.toptenbooks.net/authors/Ayelet-Waldman">AWald</a> 9)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-33 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0140447423/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Germinal.jpg" width="80" height="123" />Germinal</a> by Émile Zola (1884). As in old pictures of Pittsburgh, a pall of industrial smoke seems to hang over Zola’s grim, stirring novel about a miners strike. Zola uses his usual style of fine-grained graininess to describe the lives crushed (sometimes literally) by work, and the excessive poverty to which the miners’ families seem condemned. His is a collective portrait in which his main character, Etienne Lantier, gets engulfed by the hugeness and dangerousness of the mines (which bear the sinister nickname Le Voreux, or “the voracious ones”) and the eventual revolt against the mining company.</p>
+<p><strong>Total Points: 14 </strong>(<a href="http://www.toptenbooks.net/authors/Edwidge-Danticat">ED</a> 8) (<a href="http://www.toptenbooks.net/authors/Margaret-Drabble">MD</a> 4) (<a href="http://www.toptenbooks.net/authors/jennifer-egan">JE</a> 2)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-34 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0140075623/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Stones%20for%20ibarra.jpg" width="88" height="123" />Stones for Ibarra</a> by Harriet Doerr (1984). Seeking renewal, Richard and Sara Everton leave San Francisco for a remote village in Mexico. There they hope to reopen Richard’s grandfather’s old mine, to “patch the present on to the past. To find out if there was still copper underground and how much the rest of it was true, the width of the sky, the depth of the stars, the air like new wine, the harsh noons and long, slow dusks.” In lovely, spare prose, this National Book Award–winning novel describes the Evertons’ flowering relationships with the vividly drawn people of Ibarra and the deadly illness that hovers over their happiness.</p>
+<p><strong>Total Points: 14 </strong>(<a href="http://www.toptenbooks.net/authors/Sandra-Cisneros">SC</a> 8) (<a href="http://www.toptenbooks.net/authors/Kathryn-Harrison">KHarr</a> 6)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-35 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0393974650/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/strange%20case%20of%20dr.%20jekyll%20and%20mr.%20hyde.jpg" width="83" height="123" />The Strange Case of Dr. Jekyll and Mr. Hyde</a> by Robert Louis Stevenson (1886). This novel might easily have become a victim of its own surpassing fame, which has removed all suspense from its central riddle: What is the relationship between Dr. Jekyll and Mr. Hyde? Yet as our narrator plumbs Dr. Jekyll’s descent into drug-addled, alter-ego madness, we are riveted by Stevenson’s portrait of the good and evil that lurks in one man’s heart. “This, too, was myself,” Jekyll says of Hyde. Somehow we suspect it’s us, too.</p>
+<p><strong>Total Points: 14 </strong>(<a href="http://www.toptenbooks.net/authors/A-L-Kennedy">ALK</a> 9) (<a href="http://www.toptenbooks.net/authors/Ian-Rankin">IR</a> 4) (<a href="http://www.toptenbooks.net/authors/irvine-welsh">IWelsh</a> 1)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-36 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/067972575X/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Tin%20drum.jpg" width="86" height="123" />The Tin Drum</a> by Günter Grass (1959). This picaresque novel depicts the rise of Nazism in Germany and its terrible consequences through the adventures of Oskar Matzerath, “the eternal three-year-old” who stunts his growth at three feet and uses his tin drum and piercing screams as weapons against a mad world. Chilling and absurd, teeming with black comedy and dark insights into the human soul, The Tin Drum is both an artistic triumph and an act of reclamation. As the Swedish Academy observed while presenting Grass with the Nobel Prize for Literature in 1999, the novel “comes to grips with the enormous task of reviewing contemporary history by recalling the disavowed and the forgotten: the victims, losers, and lies that people wanted to forget because they had once believed in them.”</p>
+<p><strong>Total Points: 14 </strong>(<a href="http://www.toptenbooks.net/authors/Jim-Crace">JC</a> 3) (<a href="http://www.toptenbooks.net/authors/Michael-Griffith">MGri</a> 5) (<a href="http://www.toptenbooks.net/authors/Allan-Gurganus">AG</a> 1) (<a href="http://www.toptenbooks.net/authors/John-Irving">JI</a> 4) (<a href="http://www.toptenbooks.net/authors/Thomas-Keneally">TK</a> 1)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-37 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0156949601/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/The%20Waves.jpg" width="81" height="123" />The Waves</a> by Virgina Woolf (1931). This grand experiment in narrative depicts six characters—from nursery school to the brink of old age—through a series of interior soliloquies. Stages in their lives are framed by bits of description of a day on a deserted beach; the book’s finale, their reunion at a London restaurant, is a tour de force. “The light of civilization is burnt out,” one character thinks while gazing at London’s night sky in this haunting, poetic meditation on time’s passage.</p>
+<p><strong>Total Points: 14</strong> (<a href="http://www.toptenbooks.net/authors/christopher-bollen">CBollen</a> 7) (<a href="http://www.toptenbooks.net/authors/Ben-Marcus">BM</a> 5) (<a href="http://www.toptenbooks.net/authors/jane-mendelsohn">JMEND</a> 2)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-38 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0679783415/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/David%20Copperfield.jpg" width="78" height="123" />David Copperfield</a> by Charles Dickens (1849–50). Dickens’s most autobiographical novel chronicles his hero’s ever-changing fortunes, beginning with his famous opening line, “I am born.” As a boy, David is swept between school and the workhouse; later, between the law and literature; and then between his vapid wife Dora and his true love Agnes. Ingratiating Uriah Heep, talented Mr. Micawber, devoted nurse Peggoty, and willing Barkis are some of the most memorable characters in the entire Dickens canon.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Kathryn-Harrison">KHarr</a> 7) (<a href="http://www.toptenbooks.net/authors/John-Irving">JI</a> 6)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-39 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0679728899/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Death%20comes%20for%20the%20archbishop.jpg" width="72" height="123" />Death Comes for the Archbishop</a> by Willa Cather (1927). Two French missionaries come to the vast and untamed deserts of New Mexico in 1851. Through a series of often symbolic stories about their shared and personal experiences over forty years, Cather depicts both vanished landscapes and timeless themes of faith, loneliness, and our relationships with one another and the natural world.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Percival-Everett">PE</a> 4) (<a href="http://www.toptenbooks.net/authors/Paula-Fox">PF</a> 5) (<a href="http://www.toptenbooks.net/authors/Craig-Nova">CN</a> 4)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-40 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0142000655/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/East%20of%20Eden.jpg" width="75" height="123" />East of Eden</a> by John Steinbeck (1952). A retelling of Cain and Abel set in California’s Salinas Valley between the Civil War and World War I, this novel takes off when Adam Trask realizes that maybe he shouldn’t have married the lovely yet soulless prostitute Cathy Ames: on their wedding night she betrays him with his brother. Still, they produce twin boys, but Cathy, driven by undeniable demons, forsakes the newborns for her old life. Adam tells his rivalrous sons—Caleb, the bad penny, and sweet Aron—their mother is dead. But when Caleb learns the truth, the family’s uneasy peace gives way to mayhem and a searing battle between good and evil as characters grapple with their destiny.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Melissa-Bank">MB</a> 7) (<a href="http://www.toptenbooks.net/authors/G-D-Gearino">GDG</a> 6)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-41 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0393303942/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Good%20morning%2C%20midnight.jpg" width="85" height="123" />Good Morning, Midnight</a> by Jean Rhys (1939). On hell’s short bookshelf of great writing about alcohol, this novel is narrated by Sasha Jansen, a semi-writer at loose ends who is planning a permanent swan dive into the bottle. While Virginia Woolf thought women needed a room of their own for creative work, Jansen believes “a room is a place where you hide from the wolves outside.” Jansen’s fugue through 1930s Paris, while pursued by age, disapproving bartenders, and a stubborn gigolo, is a café blues song: stylish and haunting.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Sandra-Cisneros">SC</a> 6) (<a href="http://www.toptenbooks.net/authors/jennifer-egan">JE</a> 7)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-42 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0140444254/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Oedipus.jpg" width="76" height="123" />Oedipus trilogy</a> by Sophocles (496–406 b.c.e.). Like an existential sadist, Sophocles explores the tragic complexities of fate by hurling his characters into situations in which they are simultaneously guilty and innocent, forced to choose between right and right or wrong and wrong—or some painfully imprecise combination of the two. In Oedipus the King, Oedipus is desperate to escape his fate—that he will murder his father and marry his mother—yet inexorably fulfills it with devastating effect. In Oedipus at Colonus, the blind, self-exiled ruler moves toward faith and goodness as his sons battle for his throne. In the third play, Antigone, his loving and upright daughter is forced to choose with climactic consequence between equally worthy goals as Sophocles depicts our struggles to explain a world we can scarcely comprehend.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Sue-Monk-Kidd">SMK</a> 4) (<a href="http://www.toptenbooks.net/authors/Anthony-Walton">AW</a> 9)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-43 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0307270890/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Revolutionary%20Road.jpg" width="80" height="123" />Revolutionary Road</a> by Richard Yates (1961). Trying to avoid the conformity of their suburban neighbors on Revolutionary Road, Frank and April Wheeler talk of moving to France where Frank might write the great book or think the great thoughts April believes he is capable of. However, infidelity and alcohol abuse dissolve their dreams as Frank and April lose faith in each other and themselves in this exquisitely painful novel.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Kate-Atkinson">KA</a> 3) (<a href="http://www.toptenbooks.net/authors/Judy-Budnitz">JBud</a> 3) (<a href="http://www.toptenbooks.net/authors/Elizabeth-Flock">EF</a> 1) (<a href="http://www.toptenbooks.net/authors/Lionel-Shriver">LShriv</a> 6)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-44 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0316713902/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Ship%20of%20fools.jpg" width="75" height="123" />Ship of Fools</a> by Katherine Anne Porter (1962). The celebrated miniaturist’s only long fiction, which was thirty years in the making, is a bitter satire depicting a 1931 ocean voyage from Mexico (Veracruz) to Germany (Bremen). Inspired by Sebastian Brant’s fifteenth-century allegory of the same title, it is a portrayal of marital, class, and ethnic conflicts among passengers aboard the ship Vera (“Truth”). These include an ailing doctor, a drug-addicted “Contessa,” various uprooted Americans, gypsy dancers, and twin malevolent children. Praised for its artistry, condemned for its vitriolic anti-German sentiment, Porter’s Odyssey remains a fascinating, infuriating novel.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Patrick-McGrath">PM</a> 6) (<a href="http://www.toptenbooks.net/authors/Annie-Proulx">AP</a> 7)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-45 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0199539081/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Sister%20Carrie.jpg" width="72" height="123" />Sister Carrie</a> by Theodore Dreiser (1900). Ambitious farm girl Carrie Meeber comes to Chicago, gaining the favor of a wealthy bar manager named Hurstwood to avoid the sweatshops. The smitten man ditches his family, absconds with company funds, and moves to New York with Carrie. When he can’t find work his star falls as Carrie’s rises in the theater. Filled with the tensions between rural America and its bustling urban future, and between propriety and ambition, Sister Carrie is a haunting portrait of a nation’s contradictory impulses.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Wally-Lamb">WL</a> 5) (<a href="http://www.toptenbooks.net/authors/Tom-Perrotta">TP</a> 4) (<a href="http://www.toptenbooks.net/authors/Tom-Wolfe">TW</a> 4)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-46 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0679732179/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Bear.jpeg" width="81" height="123" />The Bear</a> by William Faulkner (1942). A highly atmospheric paean to the vanishing wilderness, this novella crisscrosses time and memory to chronicle Ike McCaslin’s coming-of-age through annual hunting parties in the Mississippi woods. Beginning with his first trip at age ten, we watch him master the art of hunting, learning the ways of men and the woods. The ultimate prize is the legendary bear, Old Ben, a symbol of the untamed world “which the little puny humans swarmed and hacked at in a fury of abhorrence and fear.” When sixteen-year-old Ike gets Old Ben in his sights, history, maturity, and ecological consciousness collide in a powerful rite of passage.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Robert-B-Parker">RBP</a> 10) (<a href="http://www.toptenbooks.net/authors/Scott-Turow">ST</a> 3)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-47 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/006093140X/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Golden%20Notebook.jpg" width="80" height="123" />The Golden Notebook</a> by Doris Lessing (1962). In her epic fusion of structural experiment and exhaustive realism, Lessing lays bare the splintered state of modern womanhood. In four separate notebooks, Anna Wulf records different aspects of her life: her consecutive and unfulfilling love affairs, her memories of Africa, her struggles with motherhood, and above all, her growing disenchantment with communism. Lessing’s novel foreshadowed the concerns of the women’s movement, becoming a major feminist text.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Margaret-Drabble">MD</a> 3) (<a href="http://www.toptenbooks.net/authors/jennifer-egan">JE</a> 10)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-48 views-row-even">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0679731210/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/Leopard.jpg" width="80" height="123" />The Leopard</a> by Giuseppe Tomasi di Lampedusa (1958). While liberal rebels roam the hills of Sicily, and rumors spread that Garibaldi’s army is poised for invasion, the old prince Don Fabrizio struggles to manage his vast and now threatened estates. “I belong to an unfortunate generation,” he says, “swung between the old world and the new, and I find myself ill at ease in both.” While charting what he sees as nineteenth-century Sicily’s necessary movement toward science and liberal politics, Lampedusa uses the admirable prince to suggest the traditions and values lost in the process.</p>
+<p><strong>Total Points: 13 </strong>(<a href="http://www.toptenbooks.net/authors/Julian-Barnes">JBarn</a> 3) (<a href="http://www.toptenbooks.net/authors/Roxana-Robinson">RR</a> 4) (<a href="http://www.toptenbooks.net/authors/Jim-Shepard">JS</a> 6)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-49 views-row-odd">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0375701427/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/american%20pastoral.jpg" width="81" height="123" />American Pastoral</a> by Philip Roth (1997). As the close of the 20<sup>th</sup> century, the American century, Roth delivered an elegy for all of its promises of prosperity, civic order, and domestic bliss. Roth's protagonist is Swede Levov, a legendary athlete at his Newark high school, who grows up in the booming postwar years to marry a former Miss New Jersey, inherit his father's glove factory, and move into a stone house in the idyllic hamlet of Old Rimrock. And then one day in 1968, Swede's beautiful American luck deserts him. For Swede's adored daughter, Merry, has grown from a loving, quick-witted girl into a sullen, fanatical teenager—a teenager capable of an outlandishly savage act of political terrorism. And overnight Swede is wrenched out of the longer-for American pastoral and into the indigenous American berserk. And there he seeks the help of Roth’s alter ego, Nathan Zuckerman, to help him make sense of it all.</p>
+<p><strong>Total Points: 12 </strong>(<a href="http://www.toptenbooks.net/authors/jennifer-gilmore">JGil</a> 4) (<a href="http://www.toptenbooks.net/authors/Maile-Meloy">MM</a> 8)</p>
+</div>  </div>  </div>
+  <div class="views-row views-row-50 views-row-even views-row-last">
+      
+  <div class="views-field views-field-body">        <div class="field-content top-ten-book-item"><p><a href="http://www.amazon.com/exec/obidos/ASIN/0375701427/ref=nosim/totebo07-20"><img src="http://toptenbooks.net/thebooks/sites/default/files/american%20pastoral.jpg" width="81" height="123" />American Pastoral</a> by Philip Roth (1997). As the close of the 20<sup>th</sup> century, the American century, Roth delivered an elegy for all of its promises of prosperity, civic order, and domestic bliss. Roth's protagonist is Swede Levov, a legendary athlete at his Newark high school, who grows up in the booming postwar years to marry a former Miss New Jersey, inherit his father's glove factory, and move into a stone house in the idyllic hamlet of Old Rimrock. And then one day in 1968, Swede's beautiful American luck deserts him. For Swede's adored daughter, Merry, has grown from a loving, quick-witted girl into a sullen, fanatical teenager—a teenager capable of an outlandishly savage act of political terrorism. And overnight Swede is wrenched out of the longer-for American pastoral and into the indigenous American berserk. And there he seeks the help of Roth’s alter ego, Nathan Zuckerman, to help him make sense of it all.</p>
+<p><strong>Total Points: 12 </strong>(<a href="http://www.toptenbooks.net/authors/jennifer-gilmore">JGil</a> 4) (<a href="http://www.toptenbooks.net/authors/Maile-Meloy">MM</a> 8)</p>
+</div>  </div>  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-first first"><a title="Go to first page" href="/the-list-of-books-view">« first</a></li>
+<li class="pager-previous"><a title="Go to previous page" href="/the-list-of-books-view?page=1">‹ previous</a></li>
+<li class="pager-item"><a title="Go to page 1" href="/the-list-of-books-view">1</a></li>
+<li class="pager-item"><a title="Go to page 2" href="/the-list-of-books-view?page=1">2</a></li>
+<li class="pager-current">3</li>
+<li class="pager-item"><a title="Go to page 4" href="/the-list-of-books-view?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/the-list-of-books-view?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/the-list-of-books-view?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/the-list-of-books-view?page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/the-list-of-books-view?page=7">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/the-list-of-books-view?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/the-list-of-books-view?page=3">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/the-list-of-books-view?page=13">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div></div>
+</div>
+  </div>
+
+</div>
+                        <div class="art-layout-cell art-sidebar2 clearfix">  <div class="region region-sidebar-right">
+    <div class="block block-block" id="block-block-4">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  New List</h3>
+</div>        <div class="art-blockcontent"><p><strong>Francine Prose</strong></p>
+<p><img src="http://www.writersvoice.net/wp-content/uploads/2006/10/Francine-Prose.jpg" width="150" height="145" /></p>
+<p>1. <a href="http://www.amazon.com/exec/obidos/ASIN/0143035002/ref=nosim/totebo-20">Anna Karenina</a> by Leo Tolstoy (1877). <br /> 2. <a href="http://www.amazon.com/exec/obidos/ASIN/0679783180/ref=nosim/totebo-20">The Charterhouse of Parma</a> by Stendhal (1839). (See below.)<br /> 3. <a href="http://www.amazon.com/exec/obidos/ASIN/0812969642/ref=nosim/totebo-20">In Search of Lost Time</a> by Marcel Proust (1913–27). <br /> 4. <a href="http://www.amazon.com/exec/obidos/ASIN/0553381008/ref=nosim/totebo-20">The stories of Anton Chekhov</a> (1860–1904). <br /> 5. <a href="http://www.amazon.com/exec/obidos/ASIN/0375724427/ref=nosim/totebo-20">The stories of John Cheever</a> (1912–82). <br /> 6. <a href="http://www.amazon.com/exec/obidos/ASIN/1590170229/ref=nosim/totebo-20">The stories of Mavis Gallant</a> (1922– ). <br /> 7. <a href="http://www.amazon.com/exec/obidos/ASIN/0393972836/ref=nosim/totebo-20">Moby-Dick</a> by Herman Melville (1851). <br /> 8. <a href="http://www.amazon.com/exec/obidos/ASIN/0141439548/ref=nosim/totebo-20">Middlemarch</a> by George Eliot (1871–72). <br /> 9. <a href="http://www.amazon.com/exec/obidos/ASIN/0060883286/ref=nosim/totebo-20">One Hundred Years of Solitude</a> by Gabriel García Márquez (1967). <br /><br /></p>
+<p> </p>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-5">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  Classic List</h3>
+</div>        <div class="art-blockcontent"><p><strong>Amy Bloom</strong></p>
+<p> <img src="http://www.irishtimes.com/polopoly_fs/1.1930606.1410865041!/image/image.jpg_gen/derivatives/box_620_330/image.jpg" width="160" height="85" /></p>
+<p>1. <a href="http://www.amazon.com/exec/obidos/ASIN/0140147551/ref=nosim/totebo-20">The Deptford trilogy</a> by Robertson Davies (1983). <br /> 2.<a href="http://www.amazon.com/exec/obidos/ASIN/0393960188/ref=nosim/totebo-20">Persuasion</a> by Jane Austen (1817). <br /> 3. <a href="http://www.amazon.com/exec/obidos/ASIN/0375842381/ref=nosim/totebo-20">His Dark Materials</a>by Philip Pullman (1995–2000). <br /> 4.<a href="http://www.amazon.com/exec/obidos/ASIN/0143105507/ref=nosim/totebo-20">The Stone Diaries</a> by Carol Shields (1995). <br /> 5.<a href="http://www.amazon.com/exec/obidos/ASIN/0060557559/ref=nosim/totebo-20">The Known World</a> by Edward P. Jones (2003). <br /> 6. <a href="http://www.amazon.com/exec/obidos/ASIN/0679732713/ref=nosim/totebo-20">The Beggar Maid</a> by Alice Munro (1978). <br /> 7. <a href="http://www.amazon.com/exec/obidos/ASIN/1400079497/ref=nosim/totebo-20">The Plot Against America</a>by Philip Roth. <br /> 8. <a href="http://www.amazon.com/exec/obidos/ASIN/0312305060/ref=nosim/totebo-20">The Hours</a> by Michael Cunningham (1998). <br /> 9. <a href="http://www.amazon.com/exec/obidos/ASIN/1590170512/ref=nosim/totebo-20">Fancies and Goodnights</a> by John Collier (1951). <br /> 10. <a href="http://www.amazon.com/exec/obidos/ASIN/0140266771/ref=nosim/totebo-20">Larry’s Party</a> by Carol Shields (1997). </p>
+<p></p>
+<div> </div>
+
+<p><em></em></p>
+<p> </p>
+</div>
+</div></div>
+<div class="block block-block" id="block-block-15">
+<div class="art-block clearfix">
+        <div class="art-blockheader"><h3 class="t subject">
+  Read On Amazon Fire Phone</h3>
+</div>        <div class="art-blockcontent"><div style="background-color: #dedede; margin: 0 auto; padding: 0; text-align: center;">
+<p style="font-family: Ubuntu, Arial, 'Arial Unicode MS', Helvetica, sans-serif; line-height: 19.5px; background-color: #dedede; color: light-blue; padding: 0; text-align: center; margin: 0;">Read Your Books and do so much more. You have to see it to believe it! What a great gift for Christmas</p>
+<p style="font-family: Ubuntu, Arial, 'Arial Unicode MS', Helvetica, sans-serif; line-height: 19.5px; background-color: #dedede; color: light-blue; padding: 0; text-align: center; margin: 0;"><a href="http://www.amazon.com/gp/product/B00OC0USA6/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00OC0USA6&amp;linkCode=as2&amp;tag=totebo07-20&amp;linkId=4QJOFBHY64ZMGCVA">Amazon Fire Phone, 32GB (Unlocked GSM)<img src="http://futurewavewebdevelopment.com/images/firephone.gif" alt="Read Your books on Amazon Firephone and do so much more" border="0" style="border: none !important; margin: 0px !important; padding: 0; background-color: #dedede; text-align: center;" /></a></p>
+<p> </p>
+</div>
+</div>
+</div></div>
+  </div>
+</div>                    </div>
+                </div>
+            </div>
+    </div>
+<footer class="art-footer clearfix">
+  <div class="art-footer-inner">
+<p><a href="#">Link1</a> | <a href="#">Link2</a> | <a href="#">Link3</a></p>
+<p>Copyright © 2013. All Rights Reserved.</p>
+    <p class="art-page-footer">
+        <span id="art-footnote-links">Powered by <a href="http://drupal.org/">Drupal</a> and <a href="http://www.artisteer.com/?p=drupal_themes">Drupal Theme</a> created with Artisteer.</span>
+    </p>
+  </div>
+</footer>
+
+</div>
+
+
+  </body>
+</html>

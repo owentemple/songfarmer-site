@@ -97,7 +97,7 @@ The blog hosts the full text of the Songfarmer book as individual chapter posts 
 | Prompts | `prompts.md` | 92-93 |
 | Conclusion | `conclusion.md` | 94-96 |
 
-**Completed so far**: Chapters 1, 2, 3, 4 (ch4 had no differences)
+**Completed so far**: Chapters 1, 2, 3, 4 (no differences), 5, 6
 
 **Process**: Read 10-20 PDF pages at a time for the chapter, read the blog post, compare section by section, list all differences, then apply edits. Watch for non-breaking spaces (U+00A0) and smart quotes in the blog files — use Python for replacements if the Edit tool fails on special characters.
 

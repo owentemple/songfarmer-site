@@ -32,7 +32,7 @@ Now, let’s talk about what to do with these seeds once you have them collected
 
 We’re at a checkpoint in Songfarmer, where we have discussed habit creation and we’ve encouraged you to be sure that songwriting habits are built into your daily life, and through those habits you collect seeds. Once your farming habits have resulted in a collection of seeds, now you will water them (with the composing mode called FLOW) and then you will weed the fields and prune the plants (with the composing mode called EDIT.)
 
-The critical Songfarmer concept is, again, that there are two modes of composing: FLOW and EDIT. One is a stream-of-consciousness mode (FLOW) and the other is a critical, structural, revising and evaluative mode (EDIT). The key: Don’t try to do the two modes of composing, FLOW and EDIT, at the same time.
+The most fundamental Songfarmer concept is, again, that there are two modes of composing: FLOW and EDIT. One is a stream-of-consciousness mode (FLOW) and the other is a critical, structural, revising and evaluative mode (EDIT). The key: Don’t try to do the two modes of composing, FLOW and EDIT, at the same time.
 
 Can you really do two things at once? If you are like most people, you think you can, but in reality, you can’t. Many people try to do two things at once while they are composing, and they get stuck because they *evaluate* what they are creating too early in the process before giving their ideas a fair shot.
 
@@ -40,7 +40,9 @@ Can you really do two things at once? If you are like most people, you think you
 
 2. EDIT. The follow-up mode of composing (that should be used in later phases after a sufficient FLOW session) is structured and evaluative. It is focused on rhyming, order, and making the most of the raw materials (words and sounds) you produced during the FLOW mode.
 
-The two functions cannot be performed at the same time, and a very strict separation of the use of them will help you produce more songs. There is a time for FLOW and there is a time for EDIT.  You will go back and forth between these two functions throughout the process of composing a song, but you cannot do them both at the same time, and if you try to, you will get frustrated and shut down the creative drive. Imagine an iterative, repeating, back and forth dance between these two modes as you compose: FLOW and EDIT, FLOW and EDIT. Repeat as necessary until you determine that the song is finished.
+The two functions cannot be performed at the same time, and a very strict separation of the use of them will help you produce more songs. There is a time for FLOW, and there is a time for EDIT.  You will go back and forth between these two functions throughout the process of composing a song, but you cannot do them both at the same time, and if you try to, you will get frustrated and shut down the creative drive. Imagine an iterative, repeating, back and forth switching between these two modes as you compose: FLOW and EDIT, FLOW and EDIT. Repeat as necessary until you determine that the song is finished.
+
+If you are working on a particular section of a song, a line, or even trying to find a particular word, the back and forth use of FLOW and EDIT will serve you well.
 
 Here are some typical characteristics and features of both modes:
 
@@ -67,20 +69,28 @@ Here are some typical characteristics and features of both modes:
 
 **FLOW**
 
-Think about writing in the FLOW mode as an emptying of thoughts and just write down words and connections as they appear, without evaluation, hesitation, or critique. Just as water will find a way around barriers, so you should allow your thoughts to move to the page when you are in this mode. Try using the FLOW mode to free write for either a set period of time or for a set number of pages and:
+Think about writing lyrics in the FLOW mode as an emptying of thoughts and just write down words and connections as they appear without evaluation, hesitation, or critique. (This FLOW process applies to composing melodies as well, and FLOW with music ideas is discussed specifically later in this chapter.) Just as water will find a way around barriers, so you should allow your thoughts to move to the page when you are in this mode. Try using the FLOW mode to free write for either a set period of time or for a set number of pages and:
 
 - don’t worry about rhymes
 - keep the pen moving, don’t evaluate, just generate
 - don’t use backspace if you are using a computer
 - create a “junkyard” or “wild zone” of material to pick through later
 - don’t focus on punctuation, capitalization, or correct spelling
-- put down whatever words or images cross your mind, even if they are expressions of doubt or uncertainty, just keep writing words down!
+- put down whatever words or images cross your mind, even if they are expressions of doubt or uncertainty, keep writing words down!
+
+Trivia: Bob Dylan wrote "Watching the River Flow" on a notepad in the studio, on the day they recorded the song, in ten minutes. Leon Russell, the producer of the session, reported that he saw Bob was writing in an automatic, flow mode that initially resulted in a few lines expressing doubt about being able to write. Bob nevertheless wrote his doubts down with no editing, and the flow of words kept coming until they became the narrative that is the song's lyrics. But the first two lines of "Watching the River Flow" are:
+
+What's the matter with me
+
+I don't have much to say…
+
+The moral: Write down whatever comes to mind during the FLOW mode and keep writing.
 
 **Flow Exercise 1:**
 
 **Create a Junkyard or Wild Zone of Words**
 
-Is there any subject you would like to write a song about? What are some words that might be in a song about \_\_\_\_\_\_\_\_? List them and keep going until you run out of ideas. This list of words and phrases will be what we call your “junkyard” or a “wild zone” that we will pick through during later EDIT phases.
+Is there any subject you would like to write a song about? What are some words that might be in a song about \_\_\_\_\_\_\_\_? List them and keep going until you fill one, two, or three pages. This list of words and phrases will be what we call your “junkyard” or a “wild zone” that we will pick through during later EDIT phases.
 
 **Flow Exercise 2:**
 
@@ -92,7 +102,7 @@ Without using paragraphs or punctuation, just start listing words, phrases and s
 
 **EDIT**
 
-Use the EDIT mode to refine, polish, structure, and ask questions that will help you make decisions about your song.
+Use the EDIT mode to refine, polish, structure, and ask questions that will help you make decisions about your song lyrics.
 
 In EDIT mode, search for key phrases:
 
@@ -106,7 +116,7 @@ Can you think of some words that rhyme with these key phrases? (Go back to FLOW 
 
 **Wild Zones and Manicured Zones**
 
-Consider the FLOW mode like watering your fields to see what grows and to see what springs up from the soil of your experience. When you are flowing, you are pouring out a stream of words, thoughts, and sounds without regard to anything beyond **just keeping it going**. Think about the EDIT mode as the pruning, the weeding, and the careful moving of the tiny plants that the fields produce after plenty of watering.
+Think about the FLOW mode to be like watering your fields to see what grows and to see what springs up from the soil of your experience. When you are flowing, you are pouring out a stream of words, thoughts, and sounds without regard to anything beyond **just keeping it going**. Think about the EDIT mode as the pruning, the weeding, and the careful moving of the tiny plants that the fields produce after plenty of watering.
 
 Let’s also propose that most of us use two different zones of farmland (or at least two different fields): one is a wilder zone and the other is a more manicured and regulated zone. We FLOW (or water) to produce growth in the wilder zone, in the more natural field. Once we begin the EDIT mode (pruning, weeding, selecting), we are moving our upstart plants to a more manicured garden zone.  Of course, we can still water or FLOW once something has moved to the manicured zone, and we will have to FLOW to keep it growing, but in a more focused way.
 
@@ -176,7 +186,7 @@ You will “find these bits and pieces” of music by opening up the gates and h
 
 With musical ideas, unless you can write in musical notation, many times you will be using a voice recorder instead of paper to get down your FLOW session and for your wild zones, so, obviously, you will be singing or performing your melodies for playback later instead of writing down words. When you play back your recordings made during a melody or groove FLOW session, you will switch to your EDIT mode to listen for interesting or satisfying melodies or rhythms. While still in your EDIT mode, reproduce the interesting or satisfying melody or rhythms by performing them again into a second recording that will serve as your manicured zone.
 
-Once you have moved some ideas to a manicured zone, you have, in fact, mapped some or all of the musical structures of a song. These musical phrases will show you the number of syllables or words you need to fill those spots. For example, you might sing a piece of the melody and note how many “blanks” you need to fill in with lyrics.
+Once you have moved some ideas to a manicured zone, you have mapped some or all of the musical structures of a song. These musical phrases will show you the number of syllables or words you need to fill those spots. For example, you might sing a piece of the melody and note how many “blanks” you need to fill in with lyrics.
 
 Whether you start with musical or lyrical song seeds, use the FLOW composing mode to expand, experiment, and create, then use EDIT composing mode to evaluate, select, structure, and decide what to keep. See your first early pages, documents, and voice recordings as wild zones, and then, as you make commitments to certain lyrics and melodies, create manicured zones on new pages, documents, and voice recordings.
 
@@ -194,7 +204,7 @@ Brian Wilson says that he writes melody by:
 
 Some songwriters find that composing melodies by singing, without playing an instrument, can lead to more inventive melodies. Some other songwriters use their instrument to create a progression of chords and rhythms that suggest a feeling or mood, and then they begin composing words that match that feeling or mood (or that contrast with that feeling or mood). Create options, make choices, create options, make choices, is another way of saying FLOW, EDIT, FLOW, EDIT.
 
-The good news is that when you create options, you will be attracted to some directions more than others, and you will choose them. Then those choices will be connected to other options, some of which you will favor more than others, and then those choices will suggest further options, and the process goes on and on, until the song is finished. The underlying criteria for the choices you make are *your subjective tastes informed by all your life experiences and by your habitual study of music and language***.**  You will choose what interests you, what delights you, and what you find beautiful or compelling.
+When you create options, you will be attracted to some directions more than others, and you will choose them. Then those choices will be connected to other options, some of which you will favor more than others, and then those choices will suggest further options, and the process goes on and on, until the song is finished. The underlying criteria for the choices you make are *your subjective tastes informed by all your life experiences and by your habitual study of music and language.*  You will choose what interests you, what delights you, and what you find beautiful or compelling.
 
 ![image](/images/tumblr/fd204240a7.jpg)
 

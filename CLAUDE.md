@@ -97,9 +97,19 @@ The blog hosts the full text of the Songfarmer book as individual chapter posts 
 | Prompts | `prompts.md` | 92-93 |
 | Conclusion | `conclusion.md` | 94-96 |
 
-**Completed so far**: Chapters 1, 2, 3, 4 (no differences), 5, 6
+**Completed so far**: Chapters 1, 2, 3, 4 (no differences), 5, 6, 7, 8
+
+**Remaining**: Chapters 9, 10, Prompts, Conclusion
 
 **Process**: Read 10-20 PDF pages at a time for the chapter, read the blog post, compare section by section, list all differences, then apply edits. Watch for non-breaking spaces (U+00A0) and smart quotes in the blog files — use Python for replacements if the Edit tool fails on special characters.
+
+**Notes on common change patterns**:
+- Voice shift: "I/my/me" → "we/our/us" throughout
+- Some first-person anecdotes reframed as third-person "Owen" quotes (especially in Ch 6, 8)
+- Minor wording changes, typo fixes, added/removed sentences
+- Ch 5 added Bob Dylan trivia section; Ch 7 fixed two meaning-changing typos ("with"→"without")
+- Ch 7 also had old Tumblr book cover image — updated to match other chapters
+- Ch 8 had the most changes (18) with several "Owen talks about..." reframings
 
 Also added `book/image-001.jpg` → `static/images/image-001.jpg` (mini habits tracking chart) to Chapter 3.
 

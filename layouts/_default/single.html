@@ -3,7 +3,7 @@
 <article class="container post">
   <header class="post__header">
     <h1 class="post__title">{{ .Title }}</h1>
-    <time class="post__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    {{ if not .Date.IsZero }}<time class="post__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>{{ end }}
     {{ with .Params.tags }}
     <div class="post__tags">
       {{ range . }}

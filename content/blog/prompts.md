@@ -37,6 +37,7 @@ Feel free to use one of the following prompts to start a compose session:
 - Write a song based on a character from a movie
 - Use a book title as the title of a song
 - Pick a setting and write a song where the action of the song happens in that setting
+- Use the Songfarmer App at http://app.songfarmer.com to generate a Setting prompt
 - Learn a new chord and put together a progression of chords that it fits in. Imagine that each chord is like a pearl on a string and string them together, one after the other, and then produce lyrics and melody after the chord progression is basically set
 - Write a song with just one or two chords
 - Write down all the things that have caught your attention recently and put them together and see what happens

@@ -14,7 +14,7 @@ Chapters [1](/blog/songfarmer-chapter-one/), [2](/blog/chapter-two-set-a-goal/),
 
 ## **Stickiness**
 
-Write down answers: What do you want a song to make people feel or understand? What do you want them to do? Do you want them to stand up and sing along, do you want them to cry, or do you want them to play it at their wedding? By writing a few goals for the song you write before beginning a FLOW process, you can sometimes wind up with a song that meets your goals. “Better songs” can mean songs that accomplish the goals you set for the songs. Some songwriters want their next song to be the one that:
+Write down your answers to the following questions: What do you want a song to make people feel or understand? What do you want them to do? Do you want them to stand up and sing along, do you want them to cry, or do you want them to play it at their wedding? By writing a few goals for the song you write before beginning a FLOW process, you can sometimes wind up with a song that meets your goals. “Better songs” can mean songs that accomplish the goals you set for the songs. Some songwriters want their next song to be the one that:
 
 - People play at full blast at the summer keg party and sing along to
 - People dance to at a country bar
@@ -25,11 +25,11 @@ Write down answers: What do you want a song to make people feel or understand? W
 
 The bottom line is that “better songs” can only make sense in regard to your goals for your songwriting, and your songs get better to the extent that they accomplish the goals you set for them.
 
-One idea I believe we can all agree on: more memorable songs are generally better. We want the people that hear our songs to pay attention long enough for the song to make an impression in their consciousness and memory. Let’s use the word “stickiness” to describe how memorable a song is for a listener.
+One idea we believe we can all agree on: more memorable songs are generally better. We want the people that hear our songs to pay attention long enough for the song to make an impression in their consciousness and memory. Let’s use the word “stickiness” to describe how memorable a song is for a listener.
 
 **Elements of a memorable idea**
 
-In his 2000 book *The Tipping Point,* Malcom Gladwellproposes that some ideas are “stickier” than others. That is, they are more memorable. In a further exploration of this idea, Chip and Dan Heath, in their 2011 book *Made to Stick,* surveyed research on ad campaigns, urban myths, and other often repeated social phenomena in order to describe five factors that contribute to an idea’s “stickiness” or the quality of being memorable.
+In his 2000 book *The Tipping Point,* Malcom Gladwell proposes that some ideas are “stickier” than others. That is, they are more memorable. In a further exploration of this idea, Chip and Dan Heath, in their 2011 book *Made to Stick,* surveyed research on ad campaigns, urban myths, and other often repeated social phenomena in order to describe five factors that contribute to an idea’s “stickiness” or the quality of being memorable.
 
 They created an acronym from the first letter of each of the five factors and they spell SUCCESs:
 
@@ -93,13 +93,13 @@ As we discussed in the “Why we write songs” section of Chapter 1, a song can
 
 **Simple to unexpected moves**
 
-As you consider the music of your song, moving from simple to unexpected throughout the song will maintain interest and be more memorable. Use common melodic patterns plus occasional sonic surprises to get familiarity and novelty into an ideal mix.
+As you consider the rhythm, chord progression, and melody of your song, remember that moves from simple to unexpected throughout the song will maintain interest and be more memorable. Use common melodic patterns plus occasional sonic surprises to get both familiarity and novelty into an ideal mix.
 
 To tap into the unexpected component of stickiness of lyrics, try to use surprising turns of phrase or unexpected information at the very beginning of your song, so that you raise questions for the listener to get attention and draw them in. The first few lines of a song are prime real estate for snagging a listener’s interest, so make the most of it. And keep the surprises coming throughout the song whenever possible.
 
 **Ask questions**
 
-As listeners, a question requires just a touch more processing power from our brains. Because our brain is a problem-solving machine, it will try to answer the question. Extra processing means more memorability, so we remember when Bob Dylan asks: “How does it feel… to be on your own?” or “How many roads must a man walk down before you call him a man?”
+As listeners, a question requires just a touch more processing power from our brains than a statement requires. Because our brain is a problem-solving machine, it will try to answer the question. Extra processing means more memorability, so we remember when Bob Dylan asks: “How does it feel… to be on your own?” or “How many roads must a man walk down before you call him a man?”
 
 **Go personal**
 
@@ -111,7 +111,7 @@ Our brains handle images better than abstract ideas, so when possible, convey th
 
 **Metaphors**
 
-The use of metaphor can also embed memorable images in your songs, especially if the metaphors are used consistently. We humans can break the overwhelming, abstract complexity of the world into more familiar, concrete symbols. The Oxford Dictionary defines a metaphor is “a thing regarded as representative or symbolic of something else, especially something abstract.” Songwriters use metaphors in songs, and one way to make songs better is by paying attention to consistency in the use of metaphors. Metaphors can make for “aha” moments where you show the listener how unlike things are, in fact, similar in some ways. If you are inconsistent with comparisons, the attempt can lead to confusion and frustration for the listener.
+The use of metaphor can also embed memorable images in your songs, especially if the metaphors are used consistently. We humans can break the overwhelming, abstract complexity of the world into more familiar, concrete symbols. The Oxford Dictionary defines a metaphor is “a thing regarded as representative or symbolic of something else, especially something abstract.” Songwriters use metaphors in songs, and one way to make songs better is by paying attention to consistency in the use of metaphors. Metaphors can make for “aha” moments where you show the listener how seemingly unlike things are, in fact, similar in some ways. If you are inconsistent with comparisons, the attempt can lead to confusion and frustration for the listener.
 
 For example, if in a song you say: “our love is like a river and it flows over deserts and through the plains,” then you are saying the force, power, and persistence of flowing water is similar to a strong relationship through hardships and different settings. Now that you have made this comparison, it would be inconsistent to say: “But now our love is broken.” Why? Because you said your love was a river. How does a river break?
 
@@ -119,7 +119,7 @@ You get it. Once you make a comparison by using a metaphor, use it consistently,
 
 **Hooks**
 
-The bottom line: a hook is anything that gets and keeps attention. Sometimes I ask myself: what would be the first line of an interesting song? What line would get me leaning forward, turning up the volume to hear what comes next? Whatever line fits that description is a hook. If something interests you or if some idea or sound or rhythm appears in your thoughts, that’s a clue that you should explore it. Creativity and fresh ideas come from people exploring what they love and what amuses/interests/delights them. Do consider the listener’s perspective, but, at first, you will have to use your own experience and aesthetic tastes. The good news is that we are not so unique and there are other people in the world amused/interested/delighted by the same things we are. So go ahead and make something for yourself and for them.
+The bottom line: a hook is anything that gets and keeps attention. Ask yourself: What would be the first line of an interesting song? What line would get you leaning forward, turning up the volume to hear what comes next? Whatever line fits that description is a hook. If something interests you or if some idea or sound or rhythm appears in your thoughts, that’s a clue that you should explore it. Creativity and fresh ideas come from people exploring what they love and what amuses/interests/delights them. Do consider the listener’s perspective, but, at first, you will have to use your own experience and aesthetic tastes. The good news is that we are not so unique and there are other people in the world amused/interested/delighted by the same things we are. So go ahead and make something for yourself and for them.
 
   
   

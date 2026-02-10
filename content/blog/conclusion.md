@@ -14,15 +14,15 @@ Chapters [1](/blog/songfarmer-chapter-one/), [2](/blog/chapter-two-set-a-goal/),
 
 ## **Conclusion**
 
-In summary, I believe that cultivating songwriting habits, collecting seeds, and moving back and forth from a FLOW mode to an EDIT mode while composing is how songs are written.
+In summary, we believe that cultivating songwriting habits, collecting seeds, and moving back and forth from a FLOW mode to an EDIT mode while composing is how songs are written.
 
-I believe that you will write **more songs** as you:
+We believe that you will write **more songs** as you:
 
 - Strengthen songwriting habits and increase the number of song ideas you get from songwriting routines
 - Separate FLOW mode composing from EDIT mode composing to prevent writer’s block and getting stuck
 - Gain skill to FLOW more freely
 
-I believe that you will write **better songs** as you:
+We believe that you will write **better songs** as you:
 
 - Design songs to meet your goals
 - Study what makes for “sticky” or memorable songs
@@ -30,4 +30,4 @@ I believe that you will write **better songs** as you:
 - Gain musical skill with your instrument
 - Learn from listening and performing how to use melodies and grooves effectively
 
-I believe we can make something with our days. So go ahead and make something.
+We believe we can make something with our days. So go ahead and make something.

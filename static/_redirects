@@ -1,0 +1,8 @@
+# Netlify redirects — preserve old Tumblr navigation paths
+/workshop     https://songfarmer.bandcamp.com/merch/songfarmer-workshop-registration  301
+/photos       https://www.flickr.com/photos/songfarmer/                               301
+/reviews      https://www.yelp.com/biz/songfarmer-workshop                            301
+/app          https://app.songfarmer.com                                               301
+/facebook     https://www.facebook.com/Songfarmer-1794554584104702                    301
+/twitter      https://www.twitter.com/songfarmers                                     301
+/bandcamp     https://songfarmer.bandcamp.com                                         301

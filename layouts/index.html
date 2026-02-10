@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+<div class="hero">
+  <img alt="Songfarmer" src="/images/songfarmer-logo.jpg" />
+  <p class="tagline">{{ .Site.Params.tagline }}</p>
+</div>
+
+<div class="container">
+
+  {{/* ── App CTA ── */}}
+  <section class="card card--cta text-center">
+    <h2>Start Writing Songs Today</h2>
+    <p>The free Songfarmer App gives you randomized songwriting prompts and a daily habit tracker to keep your creativity flowing.</p>
+    <a href="https://app.songfarmer.com" class="btn btn--primary">Open the App</a>
+  </section>
+
+  {{/* ── Book ── */}}
+  <section class="card text-center" id="book">
+    <h2>The Book</h2>
+    <p><em>Songfarmer: Writing More and Better Songs</em> lays out a complete method for developing your songwriting craft — from generating ideas to building daily creative habits.</p>
+    <p>By Owen Temple &amp; Gordy Quist</p>
+    <a href="/book/" class="btn btn--secondary">Learn More</a>
+  </section>
+
+  {{/* ── Workshop ── */}}
+  <section class="card text-center" id="workshop">
+    <h2>Workshops</h2>
+    <p>Hands-on songwriting workshops where participants learn the Songfarmer method, generate song seeds, and write together in real time.</p>
+    <a href="https://songfarmer.bandcamp.com/merch/songfarmer-workshop-registration" class="btn btn--secondary" target="_blank" rel="noopener">Register for a Workshop</a>
+  </section>
+
+  {{/* ── Process Diagram ── */}}
+  <section class="card text-center">
+    <h2>The Songfarmer Process</h2>
+    <img src="/images/model-1.jpg" alt="Songfarmer process workflow" class="process-img" />
+  </section>
+
+  {{/* ── Recent Blog Posts ── */}}
+  {{ $posts := where .Site.RegularPages "Section" "blog" }}
+  {{ if $posts }}
+  <section class="card">
+    <h2 class="text-center">From the Blog</h2>
+    <div class="post-list">
+      {{ range first 5 $posts }}
+        {{ partial "post-card.html" . }}
+      {{ end }}
+    </div>
+    <div class="text-center" style="margin-top: 24px;">
+      <a href="/blog/" class="btn btn--secondary">All Posts</a>
+    </div>
+  </section>
+  {{ end }}
+
+</div>
+
+{{ end }}

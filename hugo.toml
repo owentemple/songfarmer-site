@@ -1,3 +1,42 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://songfarmer.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Songfarmer'
+
+[params]
+  description = "Songfarmer is a songwriting method, book, and app by Owen Temple & Gordy Quist. Write more and better songs."
+  tagline = "Write More and Better Songs"
+
+# Pagination
+[pagination]
+  pagerSize = 10
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+
+# Menus
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menus.main]]
+  name = "App"
+  url = "https://app.songfarmer.com"
+  weight = 50
+
+[[menus.main]]
+  name = "Workshop"
+  url = "https://songfarmer.bandcamp.com/merch/songfarmer-workshop-registration"
+  weight = 60
+
+# Sitemap
+[sitemap]
+  changeFreq = "weekly"
+  priority = 0.5
+
+# Markdown rendering
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

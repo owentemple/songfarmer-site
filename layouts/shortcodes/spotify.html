@@ -1,0 +1,14 @@
+{{/* Usage: {{< spotify track 6rqhFgbbKwnb9MLmUQDhG6 >}} */}}
+{{ $type := .Get 0 }}
+{{ $id := .Get 1 }}
+<div class="embed embed--spotify">
+  <iframe
+    src="https://open.spotify.com/embed/{{ $type }}/{{ $id }}"
+    width="100%"
+    height="{{ if eq $type "track" }}152{{ else }}352{{ end }}"
+    frameborder="0"
+    allowtransparency="true"
+    allow="encrypted-media"
+    loading="lazy">
+  </iframe>
+</div>

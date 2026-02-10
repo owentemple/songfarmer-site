@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<article class="container post">
+  <header class="post__header">
+    <h1 class="post__title">{{ .Title }}</h1>
+    <time class="post__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+    {{ with .Params.tags }}
+    <div class="post__tags">
+      {{ range . }}
+      <a href="{{ "tags/" | absURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </header>
+
+  <div class="post__content">
+    {{ .Content }}
+  </div>
+
+  <nav class="post__nav">
+    {{ with .PrevInSection }}
+    <a href="{{ .RelPermalink }}" class="post__nav-link post__nav-link--prev">
+      <span class="post__nav-label">&larr; Previous</span>
+      <span class="post__nav-title">{{ .Title }}</span>
+    </a>
+    {{ end }}
+    {{ with .NextInSection }}
+    <a href="{{ .RelPermalink }}" class="post__nav-link post__nav-link--next">
+      <span class="post__nav-label">Next &rarr;</span>
+      <span class="post__nav-title">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </nav>
+</article>
+
+{{ end }}
